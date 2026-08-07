@@ -1,0 +1,35 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+GB02C019,Aberdeen City,Aberdeen City,aberdeen-city-gb02c019,GB02C019,57.163,-2.174
+GB02C026,Aberdeenshire,Aberdeenshire,aberdeenshire-gb02c026,GB02C026,57.233,-2.614
+GB02C006,Angus,Angus,angus-gb02c006,GB02C006,56.738,-2.878
+GB02C012,Argyll and Bute,Argyll and Bute,argyll-and-bute-gb02c012,GB02C012,56.286,-5.306
+GB02C029,Clackmannanshire,Clackmannanshire,clackmannanshire-gb02c029,GB02C029,56.142,-3.755
+GB02C034,Cumberland,Cumberland,cumberland-gb02c034,GB02C034,54.648,-3.283
+GB02C027,Dumfries and Galloway,Dumfries and Galloway,dumfries-and-galloway-gb02c027,GB02C027,55.062,-3.975
+GB02C015,Dundee City,Dundee City,dundee-city-gb02c015,GB02C015,56.475,-3.016
+GB02C003,East Ayrshire,East Ayrshire,east-ayrshire-gb02c003,GB02C003,55.449,-4.291
+GB02C010,East Dunbartonshire,East Dunbartonshire,east-dunbartonshire-gb02c010,GB02C010,55.959,-4.223
+GB02C023,East Lothian,East Lothian,east-lothian-gb02c023,GB02C023,55.948,-2.726
+GB02C031,East Renfrewshire,East Renfrewshire,east-renfrewshire-gb02c031,GB02C031,55.747,-4.343
+GB02C001,Edinburgh,Edinburgh,edinburgh-gb02c001,GB02C001,55.93,-3.304
+GB02C013,Falkirk,Falkirk,falkirk-gb02c013,GB02C013,55.986,-3.787
+GB02C033,Fife,Fife,fife-gb02c033,GB02C033,56.253,-3.133
+GB02C005,Glasgow City,Glasgow City,glasgow-city-gb02c005,GB02C005,55.866,-4.269
+GB02C028,Highland,Highland,highland-gb02c028,GB02C028,57.302,-4.884
+GB02C032,Inverclyde,Inverclyde,inverclyde-gb02c032,GB02C032,55.906,-4.74
+GB02C004,Midlothian,Midlothian,midlothian-gb02c004,GB02C004,55.819,-3.114
+GB02C014,Moray,Moray,moray-gb02c014,GB02C014,57.475,-3.213
+GB02C021,Na h-Eileanan an Iar,Na h-Eileanan an Iar,na-h-eileanan-an-iar-gb02c021,GB02C021,58.226,-6.583
+GB02C011,North Ayrshire,North Ayrshire,north-ayrshire-gb02c011,GB02C011,55.715,-4.746
+GB02C017,North Lanarkshire,North Lanarkshire,north-lanarkshire-gb02c017,GB02C017,55.874,-3.972
+GB02C002,Northumberland,Northumberland,northumberland-gb02c002,GB02C002,55.192,-2.024
+GB02C008,Orkney Islands,Orkney Islands,orkney-islands-gb02c008,GB02C008,59.048,-3.2
+GB02C009,Perth and Kinross,Perth and Kinross,perth-and-kinross-gb02c009,GB02C009,56.571,-3.762
+GB02C030,Renfrewshire,Renfrewshire,renfrewshire-gb02c030,GB02C030,55.862,-4.528
+GB02C022,Scottish Borders,Scottish Borders,scottish-borders-gb02c022,GB02C022,55.528,-2.776
+GB02C016,Shetland Islands,Shetland Islands,shetland-islands-gb02c016,GB02C016,60.502,-1.294
+GB02C024,South Ayrshire,South Ayrshire,south-ayrshire-gb02c024,GB02C024,55.254,-4.693
+GB02C018,South Lanarkshire,South Lanarkshire,south-lanarkshire-gb02c018,GB02C018,55.616,-3.804
+GB02C020,Stirling,Stirling,stirling-gb02c020,GB02C020,56.25,-4.42
+GB02C007,West Dunbartonshire,West Dunbartonshire,west-dunbartonshire-gb02c007,GB02C007,55.995,-4.543
+GB02C025,West Lothian,West Lothian,west-lothian-gb02c025,GB02C025,55.892,-3.574

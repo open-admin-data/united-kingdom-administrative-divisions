@@ -1,0 +1,497 @@
+[
+  {
+    "id": "GB03C001",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Antrim and Newtownabbey",
+      "en": "Antrim and Newtownabbey",
+      "slug": "antrim-and-newtownabbey-gb03c001"
+    },
+    "code": {
+      "id": "GB03C001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.698",
+      "lon": "-6.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB03C011",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Ards and North Down",
+      "en": "Ards and North Down",
+      "slug": "ards-and-north-down-gb03c011"
+    },
+    "code": {
+      "id": "GB03C011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.563",
+      "lon": "-5.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB03C002",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Armagh City, Banbridge and Craigavon",
+      "en": "Armagh City, Banbridge and Craigavon",
+      "slug": "armagh-city-banbridge-and-craigavon-gb03c002"
+    },
+    "code": {
+      "id": "GB03C002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.418",
+      "lon": "-6.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB03C003",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Belfast",
+      "en": "Belfast",
+      "slug": "belfast-gb03c003"
+    },
+    "code": {
+      "id": "GB03C003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.592",
+      "lon": "-5.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB03C004",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Causeway Coast and Glens",
+      "en": "Causeway Coast and Glens",
+      "slug": "causeway-coast-and-glens-gb03c004"
+    },
+    "code": {
+      "id": "GB03C004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.069",
+      "lon": "-6.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB03C005",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Derry City and Strabane",
+      "en": "Derry City and Strabane",
+      "slug": "derry-city-and-strabane-gb03c005"
+    },
+    "code": {
+      "id": "GB03C005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.897",
+      "lon": "-7.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB03C006",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Fermanagh and Omagh",
+      "en": "Fermanagh and Omagh",
+      "slug": "fermanagh-and-omagh-gb03c006"
+    },
+    "code": {
+      "id": "GB03C006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.416",
+      "lon": "-7.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB03C007",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Lisburn and Castlereagh",
+      "en": "Lisburn and Castlereagh",
+      "slug": "lisburn-and-castlereagh-gb03c007"
+    },
+    "code": {
+      "id": "GB03C007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.528",
+      "lon": "-6.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB03C008",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Mid and East Antrim",
+      "en": "Mid and East Antrim",
+      "slug": "mid-and-east-antrim-gb03c008"
+    },
+    "code": {
+      "id": "GB03C008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.91",
+      "lon": "-6.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB03C009",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Mid Ulster",
+      "en": "Mid Ulster",
+      "slug": "mid-ulster-gb03c009"
+    },
+    "code": {
+      "id": "GB03C009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.654",
+      "lon": "-6.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB03C010",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Newry, Mourne and Down",
+      "en": "Newry, Mourne and Down",
+      "slug": "newry-mourne-and-down-gb03c010"
+    },
+    "code": {
+      "id": "GB03C010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB03",
+        "level": 1,
+        "name": {
+          "local": "Northern Ireland",
+          "en": "Northern Ireland",
+          "slug": "northern-ireland-gb03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.153",
+      "lon": "-6.019"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

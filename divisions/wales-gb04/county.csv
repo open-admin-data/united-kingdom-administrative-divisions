@@ -1,0 +1,55 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+GB04C007,Bath and North East Somerset,Bath and North East Somerset,bath-and-north-east-somerset-gb04c007,GB04C007,51.347,-2.471
+GB04C011,Blackpool,Blackpool,blackpool-gb04c011,GB04C011,53.814,-3.039
+GB04C030,Blaenau Gwent,Blaenau Gwent,blaenau-gwent-gb04c030,GB04C030,51.774,-3.184
+GB04C033,Bridgend,Bridgend,bridgend-gb04c033,GB04C033,51.566,-3.573
+GB04C005,Bristol,Bristol,bristol-gb04c005,GB04C005,51.451,-2.893
+GB04C024,Caerphilly,Caerphilly,caerphilly-gb04c024,GB04C024,51.638,-3.207
+GB04C039,Cardiff,Cardiff,cardiff-gb04c039,GB04C039,51.509,-3.179
+GB04C009,Carmarthenshire,Carmarthenshire,carmarthenshire-gb04c009,GB04C009,51.856,-4.173
+GB04C042,Ceredigion,Ceredigion,ceredigion-gb04c042,GB04C042,52.322,-3.936
+GB04C023,Cheshire West and Chester,Cheshire West and Chester,cheshire-west-and-chester-gb04c023,GB04C023,53.187,-2.795
+GB04C002,Conwy,Conwy,conwy-gb04c002,GB04C002,53.147,-3.741
+GB04C037,Cornwall,Cornwall,cornwall-gb04c037,GB04C037,50.558,-4.515
+GB04C008,Denbighshire,Denbighshire,denbighshire-gb04c008,GB04C008,53.076,-3.35
+GB04C004,Dorset,Dorset,dorset-gb04c004,GB04C004,50.797,-2.294
+GB04C044,East Devon,East Devon,east-devon-gb04c044,GB04C044,50.78,-3.2
+GB04C048,Exeter,Exeter,exeter-gb04c048,GB04C048,50.724,-3.514
+GB04C013,Flintshire,Flintshire,flintshire-gb04c013,GB04C013,53.246,-3.22
+GB04C049,Forest of Dean,Forest of Dean,forest-of-dean-gb04c049,GB04C049,51.762,-2.577
+GB04C051,Fylde,Fylde,fylde-gb04c051,GB04C051,53.785,-2.919
+GB04C026,Gwynedd,Gwynedd,gwynedd-gb04c026,GB04C026,52.846,-3.959
+GB04C029,Halton,Halton,halton-gb04c029,GB04C029,53.351,-2.73
+GB04C034,Herefordshire,Herefordshire,herefordshire-gb04c034,GB04C034,52.084,-2.745
+GB04C010,Isle of Anglesey,Isle of Anglesey,isle-of-anglesey-gb04c010,GB04C010,53.283,-4.38
+GB04C021,Isles of Scilly,Isles of Scilly,isles-of-scilly-gb04c021,GB04C021,49.924,-6.297
+GB04C025,Knowsley,Knowsley,knowsley-gb04c025,GB04C025,53.432,-2.835
+GB04C027,Liverpool,Liverpool,liverpool-gb04c027,GB04C027,53.403,-2.935
+GB04C014,Merthyr Tydfil,Merthyr Tydfil,merthyr-tydfil-gb04c014,GB04C014,51.753,-3.369
+GB04C047,Mid Devon,Mid Devon,mid-devon-gb04c047,GB04C047,50.914,-3.458
+GB04C040,Monmouthshire,Monmouthshire,monmouthshire-gb04c040,GB04C040,51.773,-2.871
+GB04C016,Neath Port Talbot,Neath Port Talbot,neath-port-talbot-gb04c016,GB04C016,51.661,-3.759
+GB04C001,Newport,Newport,newport-gb04c001,GB04C001,51.577,-2.975
+GB04C043,North Devon,North Devon,north-devon-gb04c043,GB04C043,51.101,-3.948
+GB04C041,North Somerset,North Somerset,north-somerset-gb04c041,GB04C041,51.408,-2.779
+GB04C018,Pembrokeshire,Pembrokeshire,pembrokeshire-gb04c018,GB04C018,51.888,-4.879
+GB04C017,Plymouth,Plymouth,plymouth-gb04c017,GB04C017,50.394,-4.114
+GB04C028,Powys,Powys,powys-gb04c028,GB04C028,52.21,-3.419
+GB04C031,Rhondda Cynon Taf,Rhondda Cynon Taf,rhondda-cynon-taf-gb04c031,GB04C031,51.66,-3.433
+GB04C006,Sefton,Sefton,sefton-gb04c006,GB04C006,53.484,-3.005
+GB04C015,Shropshire,Shropshire,shropshire-gb04c015,GB04C015,52.578,-2.775
+GB04C035,Somerset,Somerset,somerset-gb04c035,GB04C035,51.075,-2.875
+GB04C019,South Gloucestershire,South Gloucestershire,south-gloucestershire-gb04c019,GB04C019,51.564,-2.474
+GB04C053,South Hams,South Hams,south-hams-gb04c053,GB04C053,50.368,-3.823
+GB04C012,St.  Helens,St.  Helens,st-helens-gb04c012,GB04C012,53.454,-2.732
+GB04C038,Swansea,Swansea,swansea-gb04c038,GB04C038,51.686,-3.956
+GB04C045,Teignbridge,Teignbridge,teignbridge-gb04c045,GB04C045,50.611,-3.638
+GB04C036,Torbay,Torbay,torbay-gb04c036,GB04C036,50.442,-3.53
+GB04C022,Torfaen,Torfaen,torfaen-gb04c022,GB04C022,51.697,-3.052
+GB04C054,Torridge,Torridge,torridge-gb04c054,GB04C054,50.873,-4.282
+GB04C020,Vale of Glamorgan,Vale of Glamorgan,vale-of-glamorgan-gb04c020,GB04C020,51.441,-3.399
+GB04C046,West Devon,West Devon,west-devon-gb04c046,GB04C046,50.663,-4.042
+GB04C050,West Lancashire,West Lancashire,west-lancashire-gb04c050,GB04C050,53.6,-2.882
+GB04C032,Wirral,Wirral,wirral-gb04c032,GB04C032,53.373,-3.093
+GB04C003,Wrexham,Wrexham,wrexham-gb04c003,GB04C003,53.046,-2.969
+GB04C052,Wyre,Wyre,wyre-gb04c052,GB04C052,53.879,-2.813

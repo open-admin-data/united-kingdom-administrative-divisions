@@ -1,0 +1,45 @@
+{
+  "id": "GB01C121",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Gosport",
+    "en": "Gosport",
+    "slug": "gosport-gb01c121"
+  },
+  "code": {
+    "id": "GB01C121",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.806",
+    "lon": "-1.159"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB01C110",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Cotswold",
+    "en": "Cotswold",
+    "slug": "cotswold-gb01c110"
+  },
+  "code": {
+    "id": "GB01C110",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.786",
+    "lon": "-1.892"
+  },
+  "metadata": {},
+  "source": {}
+}

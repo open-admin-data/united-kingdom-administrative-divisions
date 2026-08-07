@@ -1,0 +1,45 @@
+{
+  "id": "GB01C004",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "North Yorkshire",
+    "en": "North Yorkshire",
+    "slug": "north-yorkshire-gb01c004"
+  },
+  "code": {
+    "id": "GB01C004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.201",
+    "lon": "-1.437"
+  },
+  "metadata": {},
+  "source": {}
+}

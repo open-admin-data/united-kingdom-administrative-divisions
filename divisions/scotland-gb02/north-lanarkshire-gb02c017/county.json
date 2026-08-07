@@ -1,0 +1,45 @@
+{
+  "id": "GB02C017",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "North Lanarkshire",
+    "en": "North Lanarkshire",
+    "slug": "north-lanarkshire-gb02c017"
+  },
+  "code": {
+    "id": "GB02C017",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB02",
+    "level": 1,
+    "name": {
+      "local": "Scotland",
+      "en": "Scotland",
+      "slug": "scotland-gb02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.874",
+    "lon": "-3.972"
+  },
+  "metadata": {},
+  "source": {}
+}

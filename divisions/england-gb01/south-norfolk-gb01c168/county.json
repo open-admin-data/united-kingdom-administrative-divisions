@@ -1,0 +1,45 @@
+{
+  "id": "GB01C168",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "South Norfolk",
+    "en": "South Norfolk",
+    "slug": "south-norfolk-gb01c168"
+  },
+  "code": {
+    "id": "GB01C168",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.492",
+    "lon": "1.215"
+  },
+  "metadata": {},
+  "source": {}
+}

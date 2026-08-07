@@ -1,0 +1,45 @@
+{
+  "id": "GB01C078",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Newark and Sherwood",
+    "en": "Newark and Sherwood",
+    "slug": "newark-and-sherwood-gb01c078"
+  },
+  "code": {
+    "id": "GB01C078",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.126",
+    "lon": "-0.916"
+  },
+  "metadata": {},
+  "source": {}
+}

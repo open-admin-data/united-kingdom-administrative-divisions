@@ -1,0 +1,45 @@
+{
+  "id": "GB01C232",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Richmond upon Thames",
+    "en": "Richmond upon Thames",
+    "slug": "richmond-upon-thames-gb01c232"
+  },
+  "code": {
+    "id": "GB01C232",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.43",
+    "lon": "-0.341"
+  },
+  "metadata": {},
+  "source": {}
+}

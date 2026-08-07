@@ -1,0 +1,45 @@
+{
+  "id": "GB01C188",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Cannock Chase",
+    "en": "Cannock Chase",
+    "slug": "cannock-chase-gb01c188"
+  },
+  "code": {
+    "id": "GB01C188",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.716",
+    "lon": "-1.985"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB01C026",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Milton Keynes",
+    "en": "Milton Keynes",
+    "slug": "milton-keynes-gb01c026"
+  },
+  "code": {
+    "id": "GB01C026",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.081",
+    "lon": "-0.745"
+  },
+  "metadata": {},
+  "source": {}
+}

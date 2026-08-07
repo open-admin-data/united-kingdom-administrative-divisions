@@ -1,0 +1,21 @@
+# Stockport
+
+[Home](../../../) &gt; [England](../) > **Stockport**
+
+Stockport is a county/council in United Kingdom, under England.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | GB01C019 |
+| Coordinates | 53.402, -2.128 |
+| Parent | England |
+
+## Data Files
+
+- [county.json](county.json) — County/Council metadata
+
+---
+
+<- Back to [England](../)

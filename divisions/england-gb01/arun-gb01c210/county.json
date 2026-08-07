@@ -1,0 +1,45 @@
+{
+  "id": "GB01C210",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Arun",
+    "en": "Arun",
+    "slug": "arun-gb01c210"
+  },
+  "code": {
+    "id": "GB01C210",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.846",
+    "lon": "-0.599"
+  },
+  "metadata": {},
+  "source": {}
+}

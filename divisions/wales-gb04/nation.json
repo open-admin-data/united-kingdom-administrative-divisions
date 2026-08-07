@@ -1,0 +1,33 @@
+{
+  "id": "GB04",
+  "level": 1,
+  "level_name": {
+    "local": "Nation",
+    "en": "Nation"
+  },
+  "name": {
+    "local": "Wales",
+    "en": "Wales",
+    "slug": "wales-gb04"
+  },
+  "code": {
+    "id": "GB04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 54
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.14",
+    "lon": "-3.651"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gb/nations/wales-gb04/",
+    "api": "https://openadmindata.org/api/gb/"
+  }
+}

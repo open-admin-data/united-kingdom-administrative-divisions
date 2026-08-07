@@ -1,0 +1,1319 @@
+# England — United Kingdom Administrative Divisions
+
+> 262 county/councils
+> Code: GB01
+> Coordinates: 52.546, -1.408
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## County/Councils
+
+### Adur
+
+Code: GB01C211, Coordinates: 50.844, -0.305
+
+
+### Amber Valley
+
+Code: GB01C089, Coordinates: 53.044, -1.452
+
+
+### Arun
+
+Code: GB01C210, Coordinates: 50.846, -0.599
+
+
+### Ashfield
+
+Code: GB01C175, Coordinates: 53.102, -1.261
+
+
+### Ashford
+
+Code: GB01C139, Coordinates: 51.138, 0.807
+
+
+### Babergh
+
+Code: GB01C191, Coordinates: 52.062, 0.855
+
+
+### Barking and Dagenham
+
+Code: GB01C230, Coordinates: 51.54, 0.139
+
+
+### Barnet
+
+Code: GB01C249, Coordinates: 51.613, -0.209
+
+
+### Barnsley
+
+Code: GB01C068, Coordinates: 53.542, -1.551
+
+
+### Basildon
+
+Code: GB01C108, Coordinates: 51.587, 0.484
+
+
+### Basingstoke and Deane
+
+Code: GB01C114, Coordinates: 51.274, -1.206
+
+
+### Bassetlaw
+
+Code: GB01C172, Coordinates: 53.34, -0.912
+
+
+### Bedford
+
+Code: GB01C063, Coordinates: 52.184, -0.474
+
+
+### Bexley
+
+Code: GB01C238, Coordinates: 51.469, 0.155
+
+
+### Birmingham
+
+Code: GB01C065, Coordinates: 52.488, -1.872
+
+
+### Blaby
+
+Code: GB01C159, Coordinates: 52.587, -1.212
+
+
+### Blackburn with Darwen
+
+Code: GB01C049, Coordinates: 53.687, -2.469
+
+
+### Bolsover
+
+Code: GB01C090, Coordinates: 53.225, -1.261
+
+
+### Bolton
+
+Code: GB01C070, Coordinates: 53.576, -2.465
+
+
+### Boston
+
+Code: GB01C164, Coordinates: 52.936, -0.066
+
+
+### Bournemouth, Christchurch and Poole
+
+Code: GB01C260, Coordinates: 50.74, -1.943
+
+
+### Bracknell Forest
+
+Code: GB01C052, Coordinates: 51.413, -0.741
+
+
+### Bradford
+
+Code: GB01C039, Coordinates: 53.858, -1.869
+
+
+### Braintree
+
+Code: GB01C106, Coordinates: 51.949, 0.594
+
+
+### Breckland
+
+Code: GB01C170, Coordinates: 52.585, 0.803
+
+
+### Brent
+
+Code: GB01C243, Coordinates: 51.561, -0.273
+
+
+### Brentwood
+
+Code: GB01C098, Coordinates: 51.626, 0.321
+
+
+### Broadland
+
+Code: GB01C223, Coordinates: 52.747, 1.23
+
+
+### Bromley
+
+Code: GB01C251, Coordinates: 51.366, 0.053
+
+
+### Bromsgrove
+
+Code: GB01C220, Coordinates: 52.342, -2.032
+
+
+### Broxbourne
+
+Code: GB01C127, Coordinates: 51.716, -0.042
+
+
+### Broxtowe
+
+Code: GB01C176, Coordinates: 53.007, -1.269
+
+
+### Buckinghamshire
+
+Code: GB01C048, Coordinates: 51.874, -0.872
+
+
+### Burnley
+
+Code: GB01C154, Coordinates: 53.777, -2.22
+
+
+### Bury
+
+Code: GB01C012, Coordinates: 53.591, -2.324
+
+
+### Calderdale
+
+Code: GB01C010, Coordinates: 53.715, -1.977
+
+
+### Cambridge
+
+Code: GB01C084, Coordinates: 52.202, 0.134
+
+
+### Camden
+
+Code: GB01C256, Coordinates: 51.554, -0.157
+
+
+### Cannock Chase
+
+Code: GB01C188, Coordinates: 52.716, -1.985
+
+
+### Canterbury
+
+Code: GB01C140, Coordinates: 51.281, 1.102
+
+
+### Castle Point
+
+Code: GB01C109, Coordinates: 51.542, 0.585
+
+
+### Central Bedfordshire
+
+Code: GB01C005, Coordinates: 52, -0.459
+
+
+### Charnwood
+
+Code: GB01C160, Coordinates: 52.746, -1.111
+
+
+### Chelmsford
+
+Code: GB01C103, Coordinates: 51.726, 0.479
+
+
+### Cheltenham
+
+Code: GB01C113, Coordinates: 51.903, -2.079
+
+
+### Cherwell
+
+Code: GB01C180, Coordinates: 51.899, -1.201
+
+
+### Cheshire East
+
+Code: GB01C029, Coordinates: 53.227, -2.246
+
+
+### Chesterfield
+
+Code: GB01C092, Coordinates: 53.249, -1.43
+
+
+### Chichester
+
+Code: GB01C212, Coordinates: 50.945, -0.766
+
+
+### Chorley
+
+Code: GB01C147, Coordinates: 53.666, -2.606
+
+
+### City of London
+
+Code: GB01C236, Coordinates: 51.515, -0.093
+
+
+### Colchester
+
+Code: GB01C104, Coordinates: 51.874, 0.858
+
+
+### Cotswold
+
+Code: GB01C110, Coordinates: 51.786, -1.892
+
+
+### Coventry
+
+Code: GB01C073, Coordinates: 52.415, -1.52
+
+
+### Crawley
+
+Code: GB01C216, Coordinates: 51.124, -0.173
+
+
+### Croydon
+
+Code: GB01C227, Coordinates: 51.363, -0.079
+
+
+### Dacorum
+
+Code: GB01C128, Coordinates: 51.758, -0.51
+
+
+### Darlington
+
+Code: GB01C021, Coordinates: 54.54, -1.517
+
+
+### Dartford
+
+Code: GB01C144, Coordinates: 51.438, 0.245
+
+
+### Derby
+
+Code: GB01C069, Coordinates: 52.912, -1.467
+
+
+### Derbyshire Dales
+
+Code: GB01C091, Coordinates: 53.161, -1.673
+
+
+### Doncaster
+
+Code: GB01C042, Coordinates: 53.536, -1.091
+
+
+### Dover
+
+Code: GB01C141, Coordinates: 51.216, 1.313
+
+
+### Dudley
+
+Code: GB01C031, Coordinates: 52.484, -2.13
+
+
+### Durham
+
+Code: GB01C058, Coordinates: 54.655, -1.961
+
+
+### Ealing
+
+Code: GB01C246, Coordinates: 51.527, -0.338
+
+
+### East Cambridgeshire
+
+Code: GB01C082, Coordinates: 52.399, 0.291
+
+
+### East Hampshire
+
+Code: GB01C117, Coordinates: 51.084, -0.968
+
+
+### East Hertfordshire
+
+Code: GB01C129, Coordinates: 51.877, 0.007
+
+
+### East Lindsey
+
+Code: GB01C166, Coordinates: 53.278, 0.037
+
+
+### East Riding of Yorkshire
+
+Code: GB01C050, Coordinates: 53.895, -0.544
+
+
+### East Staffordshire
+
+Code: GB01C187, Coordinates: 52.808, -1.756
+
+
+### East Suffolk
+
+Code: GB01C190, Coordinates: 52.193, 1.483
+
+
+### Eastbourne
+
+Code: GB01C096, Coordinates: 50.776, 0.265
+
+
+### Eastleigh
+
+Code: GB01C116, Coordinates: 50.948, -1.322
+
+
+### Elmbridge
+
+Code: GB01C203, Coordinates: 51.361, -0.385
+
+
+### Enfield
+
+Code: GB01C248, Coordinates: 51.649, -0.089
+
+
+### Epping Forest
+
+Code: GB01C100, Coordinates: 51.682, 0.121
+
+
+### Epsom and Ewell
+
+Code: GB01C225, Coordinates: 51.343, -0.262
+
+
+### Erewash
+
+Code: GB01C087, Coordinates: 52.934, -1.328
+
+
+### Fareham
+
+Code: GB01C122, Coordinates: 50.843, -1.208
+
+
+### Fenland
+
+Code: GB01C080, Coordinates: 52.546, 0.082
+
+
+### Folkestone and Hythe
+
+Code: GB01C135, Coordinates: 51.128, 1.09
+
+
+### Gateshead
+
+Code: GB01C020, Coordinates: 54.937, -1.683
+
+
+### Gedling
+
+Code: GB01C174, Coordinates: 53.019, -1.102
+
+
+### Gloucester
+
+Code: GB01C074, Coordinates: 51.854, -2.239
+
+
+### Gosport
+
+Code: GB01C121, Coordinates: 50.806, -1.159
+
+
+### Gravesham
+
+Code: GB01C145, Coordinates: 51.407, 0.394
+
+
+### Great Yarmouth
+
+Code: GB01C167, Coordinates: 52.67, 1.67
+
+
+### Greenwich
+
+Code: GB01C254, Coordinates: 51.469, 0.054
+
+
+### Guildford
+
+Code: GB01C200, Coordinates: 51.245, -0.601
+
+
+### Hackney
+
+Code: GB01C257, Coordinates: 51.554, -0.063
+
+
+### Hammersmith and Fulham
+
+Code: GB01C234, Coordinates: 51.503, -0.231
+
+
+### Harborough
+
+Code: GB01C158, Coordinates: 52.577, -0.954
+
+
+### Haringey
+
+Code: GB01C255, Coordinates: 51.591, -0.106
+
+
+### Harlow
+
+Code: GB01C107, Coordinates: 51.768, 0.114
+
+
+### Harrow
+
+Code: GB01C245, Coordinates: 51.592, -0.354
+
+
+### Hart
+
+Code: GB01C120, Coordinates: 51.284, -0.897
+
+
+### Hartlepool
+
+Code: GB01C044, Coordinates: 54.673, -1.256
+
+
+### Hastings
+
+Code: GB01C097, Coordinates: 50.871, 0.549
+
+
+### Havant
+
+Code: GB01C123, Coordinates: 50.836, -0.983
+
+
+### Havering
+
+Code: GB01C233, Coordinates: 51.568, 0.229
+
+
+### Hertsmere
+
+Code: GB01C126, Coordinates: 51.685, -0.27
+
+
+### High Peak
+
+Code: GB01C085, Coordinates: 53.394, -1.887
+
+
+### Hillingdon
+
+Code: GB01C244, Coordinates: 51.527, -0.452
+
+
+### Hinckley and Bosworth
+
+Code: GB01C155, Coordinates: 52.6, -1.391
+
+
+### Horsham
+
+Code: GB01C214, Coordinates: 51.003, -0.366
+
+
+### Hounslow
+
+Code: GB01C235, Coordinates: 51.478, -0.35
+
+
+### Huntingdonshire
+
+Code: GB01C083, Coordinates: 52.387, -0.24
+
+
+### Hyndburn
+
+Code: GB01C153, Coordinates: 53.757, -2.391
+
+
+### Ipswich
+
+Code: GB01C194, Coordinates: 52.057, 1.164
+
+
+### Isle of Wight
+
+Code: GB01C067, Coordinates: 50.681, -1.293
+
+
+### Islington
+
+Code: GB01C258, Coordinates: 51.549, -0.11
+
+
+### Kensington and Chelsea
+
+Code: GB01C231, Coordinates: 51.499, -0.195
+
+
+### King&#39;s Lynn and West Norfolk
+
+Code: GB01C169, Coordinates: 52.657, 0.41
+
+
+### Kingston upon Hull
+
+Code: GB01C036, Coordinates: 53.771, -0.328
+
+
+### Kingston upon Thames
+
+Code: GB01C226, Coordinates: 51.392, -0.287
+
+
+### Kirklees
+
+Code: GB01C028, Coordinates: 53.61, -1.778
+
+
+### Lambeth
+
+Code: GB01C239, Coordinates: 51.456, -0.122
+
+
+### Lancaster
+
+Code: GB01C146, Coordinates: 54.071, -2.715
+
+
+### Leeds
+
+Code: GB01C002, Coordinates: 53.82, -1.506
+
+
+### Leicester
+
+Code: GB01C047, Coordinates: 52.632, -1.134
+
+
+### Lewes
+
+Code: GB01C093, Coordinates: 50.887, 0.007
+
+
+### Lewisham
+
+Code: GB01C250, Coordinates: 51.443, -0.01
+
+
+### Lichfield
+
+Code: GB01C184, Coordinates: 52.68, -1.808
+
+
+### Lincoln
+
+Code: GB01C077, Coordinates: 53.229, -0.549
+
+
+### Luton
+
+Code: GB01C007, Coordinates: 51.888, -0.424
+
+
+### Maidstone
+
+Code: GB01C142, Coordinates: 51.245, 0.581
+
+
+### Maldon
+
+Code: GB01C105, Coordinates: 51.721, 0.764
+
+
+### Malvern Hills
+
+Code: GB01C217, Coordinates: 52.075, -2.255
+
+
+### Manchester
+
+Code: GB01C022, Coordinates: 53.462, -2.217
+
+
+### Mansfield
+
+Code: GB01C177, Coordinates: 53.152, -1.178
+
+
+### Medway
+
+Code: GB01C072, Coordinates: 51.427, 0.567
+
+
+### Melton
+
+Code: GB01C157, Coordinates: 52.803, -0.859
+
+
+### Merton
+
+Code: GB01C229, Coordinates: 51.413, -0.209
+
+
+### Mid Suffolk
+
+Code: GB01C193, Coordinates: 52.234, 1.072
+
+
+### Mid Sussex
+
+Code: GB01C213, Coordinates: 51.043, -0.117
+
+
+### Middlesbrough
+
+Code: GB01C014, Coordinates: 54.548, -1.235
+
+
+### Milton Keynes
+
+Code: GB01C026, Coordinates: 52.081, -0.745
+
+
+### Mole Valley
+
+Code: GB01C202, Coordinates: 51.214, -0.325
+
+
+### New Forest
+
+Code: GB01C115, Coordinates: 50.839, -1.603
+
+
+### Newark and Sherwood
+
+Code: GB01C078, Coordinates: 53.126, -0.916
+
+
+### Newcastle upon Tyne
+
+Code: GB01C038, Coordinates: 55.01, -1.666
+
+
+### Newcastle-under-Lyme
+
+Code: GB01C185, Coordinates: 53.007, -2.309
+
+
+### Newham
+
+Code: GB01C253, Coordinates: 51.526, 0.038
+
+
+### North East Derbyshire
+
+Code: GB01C088, Coordinates: 53.16, -1.433
+
+
+### North East Lincolnshire
+
+Code: GB01C011, Coordinates: 53.535, -0.131
+
+
+### North Hertfordshire
+
+Code: GB01C132, Coordinates: 51.915, -0.296
+
+
+### North Kesteven
+
+Code: GB01C165, Coordinates: 53.052, -0.379
+
+
+### North Lincolnshire
+
+Code: GB01C023, Coordinates: 53.611, -0.623
+
+
+### North Norfolk
+
+Code: GB01C224, Coordinates: 52.889, 1
+
+
+### North Northamptonshire
+
+Code: GB01C262, Coordinates: 52.428, -0.622
+
+
+### North Tyneside
+
+Code: GB01C057, Coordinates: 55.02, -1.525
+
+
+### North Warwickshire
+
+Code: GB01C205, Coordinates: 52.534, -1.626
+
+
+### North West Leicestershire
+
+Code: GB01C156, Coordinates: 52.743, -1.408
+
+
+### North Yorkshire
+
+Code: GB01C004, Coordinates: 54.201, -1.437
+
+
+### Norwich
+
+Code: GB01C171, Coordinates: 52.627, 1.28
+
+
+### Nottingham
+
+Code: GB01C008, Coordinates: 52.963, -1.178
+
+
+### Nuneaton and Bedworth
+
+Code: GB01C209, Coordinates: 52.501, -1.476
+
+
+### Oadby and Wigston
+
+Code: GB01C076, Coordinates: 52.59, -1.085
+
+
+### Oldham
+
+Code: GB01C037, Coordinates: 53.568, -2.016
+
+
+### Oxford
+
+Code: GB01C079, Coordinates: 51.752, -1.24
+
+
+### Pendle
+
+Code: GB01C151, Coordinates: 53.876, -2.163
+
+
+### Peterborough
+
+Code: GB01C006, Coordinates: 52.589, -0.273
+
+
+### Portsmouth
+
+Code: GB01C062, Coordinates: 50.817, -1.078
+
+
+### Preston
+
+Code: GB01C150, Coordinates: 53.804, -2.688
+
+
+### Reading
+
+Code: GB01C045, Coordinates: 51.453, -0.983
+
+
+### Redbridge
+
+Code: GB01C252, Coordinates: 51.576, 0.084
+
+
+### Redcar and Cleveland
+
+Code: GB01C016, Coordinates: 54.552, -1.039
+
+
+### Redditch
+
+Code: GB01C222, Coordinates: 52.274, -1.965
+
+
+### Reigate and Banstead
+
+Code: GB01C201, Coordinates: 51.258, -0.186
+
+
+### Ribble Valley
+
+Code: GB01C152, Coordinates: 53.912, -2.464
+
+
+### Richmond upon Thames
+
+Code: GB01C232, Coordinates: 51.43, -0.341
+
+
+### Rochdale
+
+Code: GB01C061, Coordinates: 53.592, -2.2
+
+
+### Rochford
+
+Code: GB01C099, Coordinates: 51.583, 0.813
+
+
+### Rossendale
+
+Code: GB01C149, Coordinates: 53.7, -2.269
+
+
+### Rother
+
+Code: GB01C094, Coordinates: 50.958, 0.475
+
+
+### Rotherham
+
+Code: GB01C013, Coordinates: 53.406, -1.303
+
+
+### Rugby
+
+Code: GB01C206, Coordinates: 52.389, -1.338
+
+
+### Runnymede
+
+Code: GB01C199, Coordinates: 51.397, -0.543
+
+
+### Rushcliffe
+
+Code: GB01C173, Coordinates: 52.886, -1.038
+
+
+### Rushmoor
+
+Code: GB01C124, Coordinates: 51.27, -0.763
+
+
+### Rutland
+
+Code: GB01C071, Coordinates: 52.663, -0.658
+
+
+### Salford
+
+Code: GB01C051, Coordinates: 53.498, -2.382
+
+
+### Sandwell
+
+Code: GB01C056, Coordinates: 52.523, -2.008
+
+
+### Sevenoaks
+
+Code: GB01C136, Coordinates: 51.281, 0.159
+
+
+### Sheffield
+
+Code: GB01C064, Coordinates: 53.374, -1.531
+
+
+### Slough
+
+Code: GB01C060, Coordinates: 51.515, -0.609
+
+
+### Solihull
+
+Code: GB01C059, Coordinates: 52.417, -1.729
+
+
+### South Cambridgeshire
+
+Code: GB01C081, Coordinates: 52.159, -0.003
+
+
+### South Derbyshire
+
+Code: GB01C086, Coordinates: 52.826, -1.527
+
+
+### South Holland
+
+Code: GB01C163, Coordinates: 52.768, -0.037
+
+
+### South Kesteven
+
+Code: GB01C162, Coordinates: 52.86, -0.572
+
+
+### South Norfolk
+
+Code: GB01C168, Coordinates: 52.492, 1.215
+
+
+### South Oxfordshire
+
+Code: GB01C179, Coordinates: 51.635, -1.075
+
+
+### South Ribble
+
+Code: GB01C148, Coordinates: 53.715, -2.708
+
+
+### South Staffordshire
+
+Code: GB01C183, Coordinates: 52.679, -2.179
+
+
+### South Tyneside
+
+Code: GB01C017, Coordinates: 54.969, -1.424
+
+
+### Southampton
+
+Code: GB01C024, Coordinates: 50.915, -1.387
+
+
+### Southend-on-Sea
+
+Code: GB01C003, Coordinates: 51.541, 0.721
+
+
+### Southwark
+
+Code: GB01C240, Coordinates: 51.476, -0.073
+
+
+### Spelthorne
+
+Code: GB01C204, Coordinates: 51.413, -0.463
+
+
+### St.  Albans
+
+Code: GB01C130, Coordinates: 51.772, -0.342
+
+
+### Stafford
+
+Code: GB01C186, Coordinates: 52.852, -2.205
+
+
+### Staffordshire Moorlands
+
+Code: GB01C182, Coordinates: 53.075, -1.985
+
+
+### Stevenage
+
+Code: GB01C133, Coordinates: 51.905, -0.19
+
+
+### Stockport
+
+Code: GB01C019, Coordinates: 53.402, -2.128
+
+
+### Stockton-on-Tees
+
+Code: GB01C066, Coordinates: 54.559, -1.344
+
+
+### Stoke-on-Trent
+
+Code: GB01C009, Coordinates: 53.014, -2.163
+
+
+### Stratford-on-Avon
+
+Code: GB01C208, Coordinates: 52.128, -1.623
+
+
+### Stroud
+
+Code: GB01C111, Coordinates: 51.743, -2.316
+
+
+### Sunderland
+
+Code: GB01C046, Coordinates: 54.88, -1.454
+
+
+### Surrey Heath
+
+Code: GB01C198, Coordinates: 51.35, -0.659
+
+
+### Sutton
+
+Code: GB01C228, Coordinates: 51.363, -0.176
+
+
+### Swale
+
+Code: GB01C143, Coordinates: 51.329, 0.851
+
+
+### Swindon
+
+Code: GB01C055, Coordinates: 51.563, -1.757
+
+
+### Tameside
+
+Code: GB01C030, Coordinates: 53.476, -2.065
+
+
+### Tamworth
+
+Code: GB01C189, Coordinates: 52.627, -1.669
+
+
+### Tandridge
+
+Code: GB01C196, Coordinates: 51.23, -0.045
+
+
+### Telford and Wrekin
+
+Code: GB01C025, Coordinates: 52.711, -2.486
+
+
+### Tendring
+
+Code: GB01C101, Coordinates: 51.861, 1.112
+
+
+### Test Valley
+
+Code: GB01C119, Coordinates: 51.145, -1.529
+
+
+### Tewkesbury
+
+Code: GB01C112, Coordinates: 51.967, -2
+
+
+### Thanet
+
+Code: GB01C138, Coordinates: 51.35, 1.341
+
+
+### The City of Brighton and Hove
+
+Code: GB01C053, Coordinates: 50.848, -0.135
+
+
+### Three Rivers
+
+Code: GB01C125, Coordinates: 51.659, -0.474
+
+
+### Thurrock
+
+Code: GB01C027, Coordinates: 51.507, 0.376
+
+
+### Tonbridge and Malling
+
+Code: GB01C137, Coordinates: 51.266, 0.328
+
+
+### Tower Hamlets
+
+Code: GB01C242, Coordinates: 51.523, -0.032
+
+
+### Trafford
+
+Code: GB01C032, Coordinates: 53.417, -2.366
+
+
+### Tunbridge Wells
+
+Code: GB01C134, Coordinates: 51.122, 0.427
+
+
+### Uttlesford
+
+Code: GB01C102, Coordinates: 51.938, 0.295
+
+
+### Vale of White Horse
+
+Code: GB01C178, Coordinates: 51.624, -1.438
+
+
+### Wakefield
+
+Code: GB01C035, Coordinates: 53.662, -1.408
+
+
+### Walsall
+
+Code: GB01C018, Coordinates: 52.602, -1.966
+
+
+### Waltham Forest
+
+Code: GB01C247, Coordinates: 51.588, -0.016
+
+
+### Wandsworth
+
+Code: GB01C237, Coordinates: 51.449, -0.171
+
+
+### Warrington
+
+Code: GB01C040, Coordinates: 53.395, -2.554
+
+
+### Warwick
+
+Code: GB01C207, Coordinates: 52.305, -1.588
+
+
+### Watford
+
+Code: GB01C075, Coordinates: 51.668, -0.408
+
+
+### Waverley
+
+Code: GB01C195, Coordinates: 51.136, -0.593
+
+
+### Wealden
+
+Code: GB01C095, Coordinates: 50.995, 0.202
+
+
+### Welwyn Hatfield
+
+Code: GB01C131, Coordinates: 51.764, -0.2
+
+
+### West Berkshire
+
+Code: GB01C015, Coordinates: 51.464, -1.304
+
+
+### West Lindsey
+
+Code: GB01C161, Coordinates: 53.356, -0.425
+
+
+### West Northamptonshire
+
+Code: GB01C259, Coordinates: 52.248, -1.041
+
+
+### West Oxfordshire
+
+Code: GB01C181, Coordinates: 51.841, -1.503
+
+
+### West Suffolk
+
+Code: GB01C192, Coordinates: 52.281, 0.627
+
+
+### Westminster
+
+Code: GB01C241, Coordinates: 51.519, -0.17
+
+
+### Westmorland and Furness
+
+Code: GB01C261, Coordinates: 54.5, -2.692
+
+
+### Wigan
+
+Code: GB01C054, Coordinates: 53.536, -2.618
+
+
+### Wiltshire
+
+Code: GB01C033, Coordinates: 51.276, -1.953
+
+
+### Winchester
+
+Code: GB01C118, Coordinates: 51.05, -1.204
+
+
+### Windsor and Maidenhead
+
+Code: GB01C034, Coordinates: 51.515, -0.752
+
+
+### Woking
+
+Code: GB01C197, Coordinates: 51.308, -0.57
+
+
+### Wokingham
+
+Code: GB01C041, Coordinates: 51.417, -0.875
+
+
+### Wolverhampton
+
+Code: GB01C001, Coordinates: 52.597, -2.123
+
+
+### Worcester
+
+Code: GB01C221, Coordinates: 52.195, -2.211
+
+
+### Worthing
+
+Code: GB01C215, Coordinates: 50.833, -0.389
+
+
+### Wychavon
+
+Code: GB01C219, Coordinates: 52.135, -2.055
+
+
+### Wyre Forest
+
+Code: GB01C218, Coordinates: 52.392, -2.285
+
+
+### York
+
+Code: GB01C043, Coordinates: 53.962, -1.064
+
+

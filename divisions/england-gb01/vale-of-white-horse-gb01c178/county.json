@@ -1,0 +1,45 @@
+{
+  "id": "GB01C178",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Vale of White Horse",
+    "en": "Vale of White Horse",
+    "slug": "vale-of-white-horse-gb01c178"
+  },
+  "code": {
+    "id": "GB01C178",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.624",
+    "lon": "-1.438"
+  },
+  "metadata": {},
+  "source": {}
+}

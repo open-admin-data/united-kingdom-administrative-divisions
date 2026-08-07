@@ -1,0 +1,45 @@
+{
+  "id": "GB01C169",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "King's Lynn and West Norfolk",
+    "en": "King's Lynn and West Norfolk",
+    "slug": "king-s-lynn-and-west-norfolk-gb01c169"
+  },
+  "code": {
+    "id": "GB01C169",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.657",
+    "lon": "0.41"
+  },
+  "metadata": {},
+  "source": {}
+}

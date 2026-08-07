@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "GB02C019",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Aberdeen City",
+      "en": "Aberdeen City",
+      "slug": "aberdeen-city-gb02c019"
+    },
+    "code": {
+      "id": "GB02C019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.163",
+      "lon": "-2.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C026",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Aberdeenshire",
+      "en": "Aberdeenshire",
+      "slug": "aberdeenshire-gb02c026"
+    },
+    "code": {
+      "id": "GB02C026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.233",
+      "lon": "-2.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C006",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Angus",
+      "en": "Angus",
+      "slug": "angus-gb02c006"
+    },
+    "code": {
+      "id": "GB02C006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.738",
+      "lon": "-2.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C012",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Argyll and Bute",
+      "en": "Argyll and Bute",
+      "slug": "argyll-and-bute-gb02c012"
+    },
+    "code": {
+      "id": "GB02C012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.286",
+      "lon": "-5.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C029",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Clackmannanshire",
+      "en": "Clackmannanshire",
+      "slug": "clackmannanshire-gb02c029"
+    },
+    "code": {
+      "id": "GB02C029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.142",
+      "lon": "-3.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C034",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Cumberland",
+      "en": "Cumberland",
+      "slug": "cumberland-gb02c034"
+    },
+    "code": {
+      "id": "GB02C034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.648",
+      "lon": "-3.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C027",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Dumfries and Galloway",
+      "en": "Dumfries and Galloway",
+      "slug": "dumfries-and-galloway-gb02c027"
+    },
+    "code": {
+      "id": "GB02C027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.062",
+      "lon": "-3.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C015",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Dundee City",
+      "en": "Dundee City",
+      "slug": "dundee-city-gb02c015"
+    },
+    "code": {
+      "id": "GB02C015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.475",
+      "lon": "-3.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C003",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "East Ayrshire",
+      "en": "East Ayrshire",
+      "slug": "east-ayrshire-gb02c003"
+    },
+    "code": {
+      "id": "GB02C003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.449",
+      "lon": "-4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C010",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "East Dunbartonshire",
+      "en": "East Dunbartonshire",
+      "slug": "east-dunbartonshire-gb02c010"
+    },
+    "code": {
+      "id": "GB02C010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.959",
+      "lon": "-4.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C023",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "East Lothian",
+      "en": "East Lothian",
+      "slug": "east-lothian-gb02c023"
+    },
+    "code": {
+      "id": "GB02C023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.948",
+      "lon": "-2.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C031",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "East Renfrewshire",
+      "en": "East Renfrewshire",
+      "slug": "east-renfrewshire-gb02c031"
+    },
+    "code": {
+      "id": "GB02C031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.747",
+      "lon": "-4.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C001",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Edinburgh",
+      "en": "Edinburgh",
+      "slug": "edinburgh-gb02c001"
+    },
+    "code": {
+      "id": "GB02C001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.93",
+      "lon": "-3.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C013",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Falkirk",
+      "en": "Falkirk",
+      "slug": "falkirk-gb02c013"
+    },
+    "code": {
+      "id": "GB02C013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.986",
+      "lon": "-3.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C033",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Fife",
+      "en": "Fife",
+      "slug": "fife-gb02c033"
+    },
+    "code": {
+      "id": "GB02C033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.253",
+      "lon": "-3.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C005",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Glasgow City",
+      "en": "Glasgow City",
+      "slug": "glasgow-city-gb02c005"
+    },
+    "code": {
+      "id": "GB02C005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.866",
+      "lon": "-4.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C028",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Highland",
+      "en": "Highland",
+      "slug": "highland-gb02c028"
+    },
+    "code": {
+      "id": "GB02C028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.302",
+      "lon": "-4.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C032",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Inverclyde",
+      "en": "Inverclyde",
+      "slug": "inverclyde-gb02c032"
+    },
+    "code": {
+      "id": "GB02C032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.906",
+      "lon": "-4.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C004",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Midlothian",
+      "en": "Midlothian",
+      "slug": "midlothian-gb02c004"
+    },
+    "code": {
+      "id": "GB02C004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.819",
+      "lon": "-3.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C014",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Moray",
+      "en": "Moray",
+      "slug": "moray-gb02c014"
+    },
+    "code": {
+      "id": "GB02C014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.475",
+      "lon": "-3.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C021",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Na h-Eileanan an Iar",
+      "en": "Na h-Eileanan an Iar",
+      "slug": "na-h-eileanan-an-iar-gb02c021"
+    },
+    "code": {
+      "id": "GB02C021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "58.226",
+      "lon": "-6.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C011",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "North Ayrshire",
+      "en": "North Ayrshire",
+      "slug": "north-ayrshire-gb02c011"
+    },
+    "code": {
+      "id": "GB02C011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.715",
+      "lon": "-4.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C017",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "North Lanarkshire",
+      "en": "North Lanarkshire",
+      "slug": "north-lanarkshire-gb02c017"
+    },
+    "code": {
+      "id": "GB02C017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.874",
+      "lon": "-3.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C002",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Northumberland",
+      "en": "Northumberland",
+      "slug": "northumberland-gb02c002"
+    },
+    "code": {
+      "id": "GB02C002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.192",
+      "lon": "-2.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C008",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Orkney Islands",
+      "en": "Orkney Islands",
+      "slug": "orkney-islands-gb02c008"
+    },
+    "code": {
+      "id": "GB02C008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "59.048",
+      "lon": "-3.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C009",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Perth and Kinross",
+      "en": "Perth and Kinross",
+      "slug": "perth-and-kinross-gb02c009"
+    },
+    "code": {
+      "id": "GB02C009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.571",
+      "lon": "-3.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C030",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Renfrewshire",
+      "en": "Renfrewshire",
+      "slug": "renfrewshire-gb02c030"
+    },
+    "code": {
+      "id": "GB02C030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.862",
+      "lon": "-4.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C022",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Scottish Borders",
+      "en": "Scottish Borders",
+      "slug": "scottish-borders-gb02c022"
+    },
+    "code": {
+      "id": "GB02C022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.528",
+      "lon": "-2.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C016",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Shetland Islands",
+      "en": "Shetland Islands",
+      "slug": "shetland-islands-gb02c016"
+    },
+    "code": {
+      "id": "GB02C016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "60.502",
+      "lon": "-1.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C024",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "South Ayrshire",
+      "en": "South Ayrshire",
+      "slug": "south-ayrshire-gb02c024"
+    },
+    "code": {
+      "id": "GB02C024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.254",
+      "lon": "-4.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C018",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "South Lanarkshire",
+      "en": "South Lanarkshire",
+      "slug": "south-lanarkshire-gb02c018"
+    },
+    "code": {
+      "id": "GB02C018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.616",
+      "lon": "-3.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C020",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Stirling",
+      "en": "Stirling",
+      "slug": "stirling-gb02c020"
+    },
+    "code": {
+      "id": "GB02C020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.25",
+      "lon": "-4.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C007",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "West Dunbartonshire",
+      "en": "West Dunbartonshire",
+      "slug": "west-dunbartonshire-gb02c007"
+    },
+    "code": {
+      "id": "GB02C007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.995",
+      "lon": "-4.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB02C025",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "West Lothian",
+      "en": "West Lothian",
+      "slug": "west-lothian-gb02c025"
+    },
+    "code": {
+      "id": "GB02C025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB02",
+        "level": 1,
+        "name": {
+          "local": "Scotland",
+          "en": "Scotland",
+          "slug": "scotland-gb02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.892",
+      "lon": "-3.574"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

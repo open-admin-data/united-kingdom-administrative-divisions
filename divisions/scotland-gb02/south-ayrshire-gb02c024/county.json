@@ -1,0 +1,45 @@
+{
+  "id": "GB02C024",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "South Ayrshire",
+    "en": "South Ayrshire",
+    "slug": "south-ayrshire-gb02c024"
+  },
+  "code": {
+    "id": "GB02C024",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB02",
+    "level": 1,
+    "name": {
+      "local": "Scotland",
+      "en": "Scotland",
+      "slug": "scotland-gb02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.254",
+    "lon": "-4.693"
+  },
+  "metadata": {},
+  "source": {}
+}

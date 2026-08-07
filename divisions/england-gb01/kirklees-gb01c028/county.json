@@ -1,0 +1,45 @@
+{
+  "id": "GB01C028",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Kirklees",
+    "en": "Kirklees",
+    "slug": "kirklees-gb01c028"
+  },
+  "code": {
+    "id": "GB01C028",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.61",
+    "lon": "-1.778"
+  },
+  "metadata": {},
+  "source": {}
+}

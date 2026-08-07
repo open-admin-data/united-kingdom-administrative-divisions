@@ -1,0 +1,45 @@
+{
+  "id": "GB01C211",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Adur",
+    "en": "Adur",
+    "slug": "adur-gb01c211"
+  },
+  "code": {
+    "id": "GB01C211",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.844",
+    "lon": "-0.305"
+  },
+  "metadata": {},
+  "source": {}
+}

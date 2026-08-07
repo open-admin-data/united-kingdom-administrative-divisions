@@ -1,0 +1,45 @@
+{
+  "id": "GB04C032",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Wirral",
+    "en": "Wirral",
+    "slug": "wirral-gb04c032"
+  },
+  "code": {
+    "id": "GB04C032",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.373",
+    "lon": "-3.093"
+  },
+  "metadata": {},
+  "source": {}
+}

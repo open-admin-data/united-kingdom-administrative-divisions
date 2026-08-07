@@ -1,0 +1,45 @@
+{
+  "id": "GB04C007",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Bath and North East Somerset",
+    "en": "Bath and North East Somerset",
+    "slug": "bath-and-north-east-somerset-gb04c007"
+  },
+  "code": {
+    "id": "GB04C007",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.347",
+    "lon": "-2.471"
+  },
+  "metadata": {},
+  "source": {}
+}

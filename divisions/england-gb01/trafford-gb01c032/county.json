@@ -1,0 +1,45 @@
+{
+  "id": "GB01C032",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Trafford",
+    "en": "Trafford",
+    "slug": "trafford-gb01c032"
+  },
+  "code": {
+    "id": "GB01C032",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.417",
+    "lon": "-2.366"
+  },
+  "metadata": {},
+  "source": {}
+}

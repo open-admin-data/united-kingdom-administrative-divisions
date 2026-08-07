@@ -1,0 +1,45 @@
+{
+  "id": "GB01C135",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Folkestone and Hythe",
+    "en": "Folkestone and Hythe",
+    "slug": "folkestone-and-hythe-gb01c135"
+  },
+  "code": {
+    "id": "GB01C135",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.128",
+    "lon": "1.09"
+  },
+  "metadata": {},
+  "source": {}
+}

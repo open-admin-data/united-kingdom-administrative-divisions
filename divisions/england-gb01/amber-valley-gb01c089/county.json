@@ -1,0 +1,45 @@
+{
+  "id": "GB01C089",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Amber Valley",
+    "en": "Amber Valley",
+    "slug": "amber-valley-gb01c089"
+  },
+  "code": {
+    "id": "GB01C089",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.044",
+    "lon": "-1.452"
+  },
+  "metadata": {},
+  "source": {}
+}

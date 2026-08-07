@@ -1,0 +1,45 @@
+{
+  "id": "GB04C050",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "West Lancashire",
+    "en": "West Lancashire",
+    "slug": "west-lancashire-gb04c050"
+  },
+  "code": {
+    "id": "GB04C050",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.6",
+    "lon": "-2.882"
+  },
+  "metadata": {},
+  "source": {}
+}

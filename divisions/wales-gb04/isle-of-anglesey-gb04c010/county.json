@@ -1,0 +1,45 @@
+{
+  "id": "GB04C010",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Isle of Anglesey",
+    "en": "Isle of Anglesey",
+    "slug": "isle-of-anglesey-gb04c010"
+  },
+  "code": {
+    "id": "GB04C010",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.283",
+    "lon": "-4.38"
+  },
+  "metadata": {},
+  "source": {}
+}

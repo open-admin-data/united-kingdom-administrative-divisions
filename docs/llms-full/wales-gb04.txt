@@ -1,0 +1,279 @@
+# Wales — United Kingdom Administrative Divisions
+
+> 54 county/councils
+> Code: GB04
+> Coordinates: 52.14, -3.651
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## County/Councils
+
+### Bath and North East Somerset
+
+Code: GB04C007, Coordinates: 51.347, -2.471
+
+
+### Blackpool
+
+Code: GB04C011, Coordinates: 53.814, -3.039
+
+
+### Blaenau Gwent
+
+Code: GB04C030, Coordinates: 51.774, -3.184
+
+
+### Bridgend
+
+Code: GB04C033, Coordinates: 51.566, -3.573
+
+
+### Bristol
+
+Code: GB04C005, Coordinates: 51.451, -2.893
+
+
+### Caerphilly
+
+Code: GB04C024, Coordinates: 51.638, -3.207
+
+
+### Cardiff
+
+Code: GB04C039, Coordinates: 51.509, -3.179
+
+
+### Carmarthenshire
+
+Code: GB04C009, Coordinates: 51.856, -4.173
+
+
+### Ceredigion
+
+Code: GB04C042, Coordinates: 52.322, -3.936
+
+
+### Cheshire West and Chester
+
+Code: GB04C023, Coordinates: 53.187, -2.795
+
+
+### Conwy
+
+Code: GB04C002, Coordinates: 53.147, -3.741
+
+
+### Cornwall
+
+Code: GB04C037, Coordinates: 50.558, -4.515
+
+
+### Denbighshire
+
+Code: GB04C008, Coordinates: 53.076, -3.35
+
+
+### Dorset
+
+Code: GB04C004, Coordinates: 50.797, -2.294
+
+
+### East Devon
+
+Code: GB04C044, Coordinates: 50.78, -3.2
+
+
+### Exeter
+
+Code: GB04C048, Coordinates: 50.724, -3.514
+
+
+### Flintshire
+
+Code: GB04C013, Coordinates: 53.246, -3.22
+
+
+### Forest of Dean
+
+Code: GB04C049, Coordinates: 51.762, -2.577
+
+
+### Fylde
+
+Code: GB04C051, Coordinates: 53.785, -2.919
+
+
+### Gwynedd
+
+Code: GB04C026, Coordinates: 52.846, -3.959
+
+
+### Halton
+
+Code: GB04C029, Coordinates: 53.351, -2.73
+
+
+### Herefordshire
+
+Code: GB04C034, Coordinates: 52.084, -2.745
+
+
+### Isle of Anglesey
+
+Code: GB04C010, Coordinates: 53.283, -4.38
+
+
+### Isles of Scilly
+
+Code: GB04C021, Coordinates: 49.924, -6.297
+
+
+### Knowsley
+
+Code: GB04C025, Coordinates: 53.432, -2.835
+
+
+### Liverpool
+
+Code: GB04C027, Coordinates: 53.403, -2.935
+
+
+### Merthyr Tydfil
+
+Code: GB04C014, Coordinates: 51.753, -3.369
+
+
+### Mid Devon
+
+Code: GB04C047, Coordinates: 50.914, -3.458
+
+
+### Monmouthshire
+
+Code: GB04C040, Coordinates: 51.773, -2.871
+
+
+### Neath Port Talbot
+
+Code: GB04C016, Coordinates: 51.661, -3.759
+
+
+### Newport
+
+Code: GB04C001, Coordinates: 51.577, -2.975
+
+
+### North Devon
+
+Code: GB04C043, Coordinates: 51.101, -3.948
+
+
+### North Somerset
+
+Code: GB04C041, Coordinates: 51.408, -2.779
+
+
+### Pembrokeshire
+
+Code: GB04C018, Coordinates: 51.888, -4.879
+
+
+### Plymouth
+
+Code: GB04C017, Coordinates: 50.394, -4.114
+
+
+### Powys
+
+Code: GB04C028, Coordinates: 52.21, -3.419
+
+
+### Rhondda Cynon Taf
+
+Code: GB04C031, Coordinates: 51.66, -3.433
+
+
+### Sefton
+
+Code: GB04C006, Coordinates: 53.484, -3.005
+
+
+### Shropshire
+
+Code: GB04C015, Coordinates: 52.578, -2.775
+
+
+### Somerset
+
+Code: GB04C035, Coordinates: 51.075, -2.875
+
+
+### South Gloucestershire
+
+Code: GB04C019, Coordinates: 51.564, -2.474
+
+
+### South Hams
+
+Code: GB04C053, Coordinates: 50.368, -3.823
+
+
+### St.  Helens
+
+Code: GB04C012, Coordinates: 53.454, -2.732
+
+
+### Swansea
+
+Code: GB04C038, Coordinates: 51.686, -3.956
+
+
+### Teignbridge
+
+Code: GB04C045, Coordinates: 50.611, -3.638
+
+
+### Torbay
+
+Code: GB04C036, Coordinates: 50.442, -3.53
+
+
+### Torfaen
+
+Code: GB04C022, Coordinates: 51.697, -3.052
+
+
+### Torridge
+
+Code: GB04C054, Coordinates: 50.873, -4.282
+
+
+### Vale of Glamorgan
+
+Code: GB04C020, Coordinates: 51.441, -3.399
+
+
+### West Devon
+
+Code: GB04C046, Coordinates: 50.663, -4.042
+
+
+### West Lancashire
+
+Code: GB04C050, Coordinates: 53.6, -2.882
+
+
+### Wirral
+
+Code: GB04C032, Coordinates: 53.373, -3.093
+
+
+### Wrexham
+
+Code: GB04C003, Coordinates: 53.046, -2.969
+
+
+### Wyre
+
+Code: GB04C052, Coordinates: 53.879, -2.813
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "GB01C057",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "North Tyneside",
+    "en": "North Tyneside",
+    "slug": "north-tyneside-gb01c057"
+  },
+  "code": {
+    "id": "GB01C057",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.02",
+    "lon": "-1.525"
+  },
+  "metadata": {},
+  "source": {}
+}

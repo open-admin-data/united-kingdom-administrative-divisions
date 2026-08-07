@@ -1,0 +1,45 @@
+{
+  "id": "GB03C008",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Mid and East Antrim",
+    "en": "Mid and East Antrim",
+    "slug": "mid-and-east-antrim-gb03c008"
+  },
+  "code": {
+    "id": "GB03C008",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB03",
+    "level": 1,
+    "name": {
+      "local": "Northern Ireland",
+      "en": "Northern Ireland",
+      "slug": "northern-ireland-gb03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.91",
+    "lon": "-6.21"
+  },
+  "metadata": {},
+  "source": {}
+}

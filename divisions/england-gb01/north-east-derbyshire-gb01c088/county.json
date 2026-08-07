@@ -1,0 +1,45 @@
+{
+  "id": "GB01C088",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "North East Derbyshire",
+    "en": "North East Derbyshire",
+    "slug": "north-east-derbyshire-gb01c088"
+  },
+  "code": {
+    "id": "GB01C088",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.16",
+    "lon": "-1.433"
+  },
+  "metadata": {},
+  "source": {}
+}

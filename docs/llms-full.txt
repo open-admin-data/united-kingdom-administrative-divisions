@@ -1,0 +1,19 @@
+# United Kingdom Administrative Divisions — Full Reference
+
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Per-Nation Data Files
+
+- [England](https://github.com/open-admin-data/united-kingdom-administrative-divisions/blob/main/docs/llms-full/england-gb01.txt) — 262 county/councils
+- [Scotland](https://github.com/open-admin-data/united-kingdom-administrative-divisions/blob/main/docs/llms-full/scotland-gb02.txt) — 34 county/councils
+- [Northern Ireland](https://github.com/open-admin-data/united-kingdom-administrative-divisions/blob/main/docs/llms-full/northern-ireland-gb03.txt) — 11 county/councils
+- [Wales](https://github.com/open-admin-data/united-kingdom-administrative-divisions/blob/main/docs/llms-full/wales-gb04.txt) — 54 county/councils
+
+## Summary
+
+| Nation | County/Councils | 
+|---|---|
+| England | 262 | 
+| Scotland | 34 | 
+| Northern Ireland | 11 | 
+| Wales | 54 | 

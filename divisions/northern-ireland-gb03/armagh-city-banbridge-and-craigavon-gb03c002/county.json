@@ -1,0 +1,45 @@
+{
+  "id": "GB03C002",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Armagh City, Banbridge and Craigavon",
+    "en": "Armagh City, Banbridge and Craigavon",
+    "slug": "armagh-city-banbridge-and-craigavon-gb03c002"
+  },
+  "code": {
+    "id": "GB03C002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB03",
+    "level": 1,
+    "name": {
+      "local": "Northern Ireland",
+      "en": "Northern Ireland",
+      "slug": "northern-ireland-gb03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.418",
+    "lon": "-6.427"
+  },
+  "metadata": {},
+  "source": {}
+}

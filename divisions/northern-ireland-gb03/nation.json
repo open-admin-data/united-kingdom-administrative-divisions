@@ -1,0 +1,33 @@
+{
+  "id": "GB03",
+  "level": 1,
+  "level_name": {
+    "local": "Nation",
+    "en": "Nation"
+  },
+  "name": {
+    "local": "Northern Ireland",
+    "en": "Northern Ireland",
+    "slug": "northern-ireland-gb03"
+  },
+  "code": {
+    "id": "GB03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.76",
+    "lon": "-6.892"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gb/nations/northern-ireland-gb03/",
+    "api": "https://openadmindata.org/api/gb/"
+  }
+}

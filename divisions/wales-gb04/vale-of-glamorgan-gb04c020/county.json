@@ -1,0 +1,45 @@
+{
+  "id": "GB04C020",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Vale of Glamorgan",
+    "en": "Vale of Glamorgan",
+    "slug": "vale-of-glamorgan-gb04c020"
+  },
+  "code": {
+    "id": "GB04C020",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.441",
+    "lon": "-3.399"
+  },
+  "metadata": {},
+  "source": {}
+}

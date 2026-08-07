@@ -1,0 +1,45 @@
+{
+  "id": "GB04C017",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Plymouth",
+    "en": "Plymouth",
+    "slug": "plymouth-gb04c017"
+  },
+  "code": {
+    "id": "GB04C017",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.394",
+    "lon": "-4.114"
+  },
+  "metadata": {},
+  "source": {}
+}

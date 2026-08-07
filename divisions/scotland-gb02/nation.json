@@ -1,0 +1,33 @@
+{
+  "id": "GB02",
+  "level": 1,
+  "level_name": {
+    "local": "Nation",
+    "en": "Nation"
+  },
+  "name": {
+    "local": "Scotland",
+    "en": "Scotland",
+    "slug": "scotland-gb02"
+  },
+  "code": {
+    "id": "GB02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.787",
+    "lon": "-3.982"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gb/nations/scotland-gb02/",
+    "api": "https://openadmindata.org/api/gb/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB03C010",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Newry, Mourne and Down",
+    "en": "Newry, Mourne and Down",
+    "slug": "newry-mourne-and-down-gb03c010"
+  },
+  "code": {
+    "id": "GB03C010",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB03",
+    "level": 1,
+    "name": {
+      "local": "Northern Ireland",
+      "en": "Northern Ireland",
+      "slug": "northern-ireland-gb03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.153",
+    "lon": "-6.019"
+  },
+  "metadata": {},
+  "source": {}
+}

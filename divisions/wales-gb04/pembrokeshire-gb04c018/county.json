@@ -1,0 +1,45 @@
+{
+  "id": "GB04C018",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Pembrokeshire",
+    "en": "Pembrokeshire",
+    "slug": "pembrokeshire-gb04c018"
+  },
+  "code": {
+    "id": "GB04C018",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.888",
+    "lon": "-4.879"
+  },
+  "metadata": {},
+  "source": {}
+}

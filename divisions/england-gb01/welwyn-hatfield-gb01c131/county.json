@@ -1,0 +1,45 @@
+{
+  "id": "GB01C131",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Welwyn Hatfield",
+    "en": "Welwyn Hatfield",
+    "slug": "welwyn-hatfield-gb01c131"
+  },
+  "code": {
+    "id": "GB01C131",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.764",
+    "lon": "-0.2"
+  },
+  "metadata": {},
+  "source": {}
+}

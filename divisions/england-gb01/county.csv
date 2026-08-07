@@ -1,0 +1,263 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+GB01C211,Adur,Adur,adur-gb01c211,GB01C211,50.844,-0.305
+GB01C089,Amber Valley,Amber Valley,amber-valley-gb01c089,GB01C089,53.044,-1.452
+GB01C210,Arun,Arun,arun-gb01c210,GB01C210,50.846,-0.599
+GB01C175,Ashfield,Ashfield,ashfield-gb01c175,GB01C175,53.102,-1.261
+GB01C139,Ashford,Ashford,ashford-gb01c139,GB01C139,51.138,0.807
+GB01C191,Babergh,Babergh,babergh-gb01c191,GB01C191,52.062,0.855
+GB01C230,Barking and Dagenham,Barking and Dagenham,barking-and-dagenham-gb01c230,GB01C230,51.54,0.139
+GB01C249,Barnet,Barnet,barnet-gb01c249,GB01C249,51.613,-0.209
+GB01C068,Barnsley,Barnsley,barnsley-gb01c068,GB01C068,53.542,-1.551
+GB01C108,Basildon,Basildon,basildon-gb01c108,GB01C108,51.587,0.484
+GB01C114,Basingstoke and Deane,Basingstoke and Deane,basingstoke-and-deane-gb01c114,GB01C114,51.274,-1.206
+GB01C172,Bassetlaw,Bassetlaw,bassetlaw-gb01c172,GB01C172,53.34,-0.912
+GB01C063,Bedford,Bedford,bedford-gb01c063,GB01C063,52.184,-0.474
+GB01C238,Bexley,Bexley,bexley-gb01c238,GB01C238,51.469,0.155
+GB01C065,Birmingham,Birmingham,birmingham-gb01c065,GB01C065,52.488,-1.872
+GB01C159,Blaby,Blaby,blaby-gb01c159,GB01C159,52.587,-1.212
+GB01C049,Blackburn with Darwen,Blackburn with Darwen,blackburn-with-darwen-gb01c049,GB01C049,53.687,-2.469
+GB01C090,Bolsover,Bolsover,bolsover-gb01c090,GB01C090,53.225,-1.261
+GB01C070,Bolton,Bolton,bolton-gb01c070,GB01C070,53.576,-2.465
+GB01C164,Boston,Boston,boston-gb01c164,GB01C164,52.936,-0.066
+GB01C260,"Bournemouth, Christchurch and Poole","Bournemouth, Christchurch and Poole",bournemouth-christchurch-and-poole-gb01c260,GB01C260,50.74,-1.943
+GB01C052,Bracknell Forest,Bracknell Forest,bracknell-forest-gb01c052,GB01C052,51.413,-0.741
+GB01C039,Bradford,Bradford,bradford-gb01c039,GB01C039,53.858,-1.869
+GB01C106,Braintree,Braintree,braintree-gb01c106,GB01C106,51.949,0.594
+GB01C170,Breckland,Breckland,breckland-gb01c170,GB01C170,52.585,0.803
+GB01C243,Brent,Brent,brent-gb01c243,GB01C243,51.561,-0.273
+GB01C098,Brentwood,Brentwood,brentwood-gb01c098,GB01C098,51.626,0.321
+GB01C223,Broadland,Broadland,broadland-gb01c223,GB01C223,52.747,1.23
+GB01C251,Bromley,Bromley,bromley-gb01c251,GB01C251,51.366,0.053
+GB01C220,Bromsgrove,Bromsgrove,bromsgrove-gb01c220,GB01C220,52.342,-2.032
+GB01C127,Broxbourne,Broxbourne,broxbourne-gb01c127,GB01C127,51.716,-0.042
+GB01C176,Broxtowe,Broxtowe,broxtowe-gb01c176,GB01C176,53.007,-1.269
+GB01C048,Buckinghamshire,Buckinghamshire,buckinghamshire-gb01c048,GB01C048,51.874,-0.872
+GB01C154,Burnley,Burnley,burnley-gb01c154,GB01C154,53.777,-2.22
+GB01C012,Bury,Bury,bury-gb01c012,GB01C012,53.591,-2.324
+GB01C010,Calderdale,Calderdale,calderdale-gb01c010,GB01C010,53.715,-1.977
+GB01C084,Cambridge,Cambridge,cambridge-gb01c084,GB01C084,52.202,0.134
+GB01C256,Camden,Camden,camden-gb01c256,GB01C256,51.554,-0.157
+GB01C188,Cannock Chase,Cannock Chase,cannock-chase-gb01c188,GB01C188,52.716,-1.985
+GB01C140,Canterbury,Canterbury,canterbury-gb01c140,GB01C140,51.281,1.102
+GB01C109,Castle Point,Castle Point,castle-point-gb01c109,GB01C109,51.542,0.585
+GB01C005,Central Bedfordshire,Central Bedfordshire,central-bedfordshire-gb01c005,GB01C005,52,-0.459
+GB01C160,Charnwood,Charnwood,charnwood-gb01c160,GB01C160,52.746,-1.111
+GB01C103,Chelmsford,Chelmsford,chelmsford-gb01c103,GB01C103,51.726,0.479
+GB01C113,Cheltenham,Cheltenham,cheltenham-gb01c113,GB01C113,51.903,-2.079
+GB01C180,Cherwell,Cherwell,cherwell-gb01c180,GB01C180,51.899,-1.201
+GB01C029,Cheshire East,Cheshire East,cheshire-east-gb01c029,GB01C029,53.227,-2.246
+GB01C092,Chesterfield,Chesterfield,chesterfield-gb01c092,GB01C092,53.249,-1.43
+GB01C212,Chichester,Chichester,chichester-gb01c212,GB01C212,50.945,-0.766
+GB01C147,Chorley,Chorley,chorley-gb01c147,GB01C147,53.666,-2.606
+GB01C236,City of London,City of London,city-of-london-gb01c236,GB01C236,51.515,-0.093
+GB01C104,Colchester,Colchester,colchester-gb01c104,GB01C104,51.874,0.858
+GB01C110,Cotswold,Cotswold,cotswold-gb01c110,GB01C110,51.786,-1.892
+GB01C073,Coventry,Coventry,coventry-gb01c073,GB01C073,52.415,-1.52
+GB01C216,Crawley,Crawley,crawley-gb01c216,GB01C216,51.124,-0.173
+GB01C227,Croydon,Croydon,croydon-gb01c227,GB01C227,51.363,-0.079
+GB01C128,Dacorum,Dacorum,dacorum-gb01c128,GB01C128,51.758,-0.51
+GB01C021,Darlington,Darlington,darlington-gb01c021,GB01C021,54.54,-1.517
+GB01C144,Dartford,Dartford,dartford-gb01c144,GB01C144,51.438,0.245
+GB01C069,Derby,Derby,derby-gb01c069,GB01C069,52.912,-1.467
+GB01C091,Derbyshire Dales,Derbyshire Dales,derbyshire-dales-gb01c091,GB01C091,53.161,-1.673
+GB01C042,Doncaster,Doncaster,doncaster-gb01c042,GB01C042,53.536,-1.091
+GB01C141,Dover,Dover,dover-gb01c141,GB01C141,51.216,1.313
+GB01C031,Dudley,Dudley,dudley-gb01c031,GB01C031,52.484,-2.13
+GB01C058,Durham,Durham,durham-gb01c058,GB01C058,54.655,-1.961
+GB01C246,Ealing,Ealing,ealing-gb01c246,GB01C246,51.527,-0.338
+GB01C082,East Cambridgeshire,East Cambridgeshire,east-cambridgeshire-gb01c082,GB01C082,52.399,0.291
+GB01C117,East Hampshire,East Hampshire,east-hampshire-gb01c117,GB01C117,51.084,-0.968
+GB01C129,East Hertfordshire,East Hertfordshire,east-hertfordshire-gb01c129,GB01C129,51.877,0.007
+GB01C166,East Lindsey,East Lindsey,east-lindsey-gb01c166,GB01C166,53.278,0.037
+GB01C050,East Riding of Yorkshire,East Riding of Yorkshire,east-riding-of-yorkshire-gb01c050,GB01C050,53.895,-0.544
+GB01C187,East Staffordshire,East Staffordshire,east-staffordshire-gb01c187,GB01C187,52.808,-1.756
+GB01C190,East Suffolk,East Suffolk,east-suffolk-gb01c190,GB01C190,52.193,1.483
+GB01C096,Eastbourne,Eastbourne,eastbourne-gb01c096,GB01C096,50.776,0.265
+GB01C116,Eastleigh,Eastleigh,eastleigh-gb01c116,GB01C116,50.948,-1.322
+GB01C203,Elmbridge,Elmbridge,elmbridge-gb01c203,GB01C203,51.361,-0.385
+GB01C248,Enfield,Enfield,enfield-gb01c248,GB01C248,51.649,-0.089
+GB01C100,Epping Forest,Epping Forest,epping-forest-gb01c100,GB01C100,51.682,0.121
+GB01C225,Epsom and Ewell,Epsom and Ewell,epsom-and-ewell-gb01c225,GB01C225,51.343,-0.262
+GB01C087,Erewash,Erewash,erewash-gb01c087,GB01C087,52.934,-1.328
+GB01C122,Fareham,Fareham,fareham-gb01c122,GB01C122,50.843,-1.208
+GB01C080,Fenland,Fenland,fenland-gb01c080,GB01C080,52.546,0.082
+GB01C135,Folkestone and Hythe,Folkestone and Hythe,folkestone-and-hythe-gb01c135,GB01C135,51.128,1.09
+GB01C020,Gateshead,Gateshead,gateshead-gb01c020,GB01C020,54.937,-1.683
+GB01C174,Gedling,Gedling,gedling-gb01c174,GB01C174,53.019,-1.102
+GB01C074,Gloucester,Gloucester,gloucester-gb01c074,GB01C074,51.854,-2.239
+GB01C121,Gosport,Gosport,gosport-gb01c121,GB01C121,50.806,-1.159
+GB01C145,Gravesham,Gravesham,gravesham-gb01c145,GB01C145,51.407,0.394
+GB01C167,Great Yarmouth,Great Yarmouth,great-yarmouth-gb01c167,GB01C167,52.67,1.67
+GB01C254,Greenwich,Greenwich,greenwich-gb01c254,GB01C254,51.469,0.054
+GB01C200,Guildford,Guildford,guildford-gb01c200,GB01C200,51.245,-0.601
+GB01C257,Hackney,Hackney,hackney-gb01c257,GB01C257,51.554,-0.063
+GB01C234,Hammersmith and Fulham,Hammersmith and Fulham,hammersmith-and-fulham-gb01c234,GB01C234,51.503,-0.231
+GB01C158,Harborough,Harborough,harborough-gb01c158,GB01C158,52.577,-0.954
+GB01C255,Haringey,Haringey,haringey-gb01c255,GB01C255,51.591,-0.106
+GB01C107,Harlow,Harlow,harlow-gb01c107,GB01C107,51.768,0.114
+GB01C245,Harrow,Harrow,harrow-gb01c245,GB01C245,51.592,-0.354
+GB01C120,Hart,Hart,hart-gb01c120,GB01C120,51.284,-0.897
+GB01C044,Hartlepool,Hartlepool,hartlepool-gb01c044,GB01C044,54.673,-1.256
+GB01C097,Hastings,Hastings,hastings-gb01c097,GB01C097,50.871,0.549
+GB01C123,Havant,Havant,havant-gb01c123,GB01C123,50.836,-0.983
+GB01C233,Havering,Havering,havering-gb01c233,GB01C233,51.568,0.229
+GB01C126,Hertsmere,Hertsmere,hertsmere-gb01c126,GB01C126,51.685,-0.27
+GB01C085,High Peak,High Peak,high-peak-gb01c085,GB01C085,53.394,-1.887
+GB01C244,Hillingdon,Hillingdon,hillingdon-gb01c244,GB01C244,51.527,-0.452
+GB01C155,Hinckley and Bosworth,Hinckley and Bosworth,hinckley-and-bosworth-gb01c155,GB01C155,52.6,-1.391
+GB01C214,Horsham,Horsham,horsham-gb01c214,GB01C214,51.003,-0.366
+GB01C235,Hounslow,Hounslow,hounslow-gb01c235,GB01C235,51.478,-0.35
+GB01C083,Huntingdonshire,Huntingdonshire,huntingdonshire-gb01c083,GB01C083,52.387,-0.24
+GB01C153,Hyndburn,Hyndburn,hyndburn-gb01c153,GB01C153,53.757,-2.391
+GB01C194,Ipswich,Ipswich,ipswich-gb01c194,GB01C194,52.057,1.164
+GB01C067,Isle of Wight,Isle of Wight,isle-of-wight-gb01c067,GB01C067,50.681,-1.293
+GB01C258,Islington,Islington,islington-gb01c258,GB01C258,51.549,-0.11
+GB01C231,Kensington and Chelsea,Kensington and Chelsea,kensington-and-chelsea-gb01c231,GB01C231,51.499,-0.195
+GB01C169,King's Lynn and West Norfolk,King's Lynn and West Norfolk,king-s-lynn-and-west-norfolk-gb01c169,GB01C169,52.657,0.41
+GB01C036,Kingston upon Hull,Kingston upon Hull,kingston-upon-hull-gb01c036,GB01C036,53.771,-0.328
+GB01C226,Kingston upon Thames,Kingston upon Thames,kingston-upon-thames-gb01c226,GB01C226,51.392,-0.287
+GB01C028,Kirklees,Kirklees,kirklees-gb01c028,GB01C028,53.61,-1.778
+GB01C239,Lambeth,Lambeth,lambeth-gb01c239,GB01C239,51.456,-0.122
+GB01C146,Lancaster,Lancaster,lancaster-gb01c146,GB01C146,54.071,-2.715
+GB01C002,Leeds,Leeds,leeds-gb01c002,GB01C002,53.82,-1.506
+GB01C047,Leicester,Leicester,leicester-gb01c047,GB01C047,52.632,-1.134
+GB01C093,Lewes,Lewes,lewes-gb01c093,GB01C093,50.887,0.007
+GB01C250,Lewisham,Lewisham,lewisham-gb01c250,GB01C250,51.443,-0.01
+GB01C184,Lichfield,Lichfield,lichfield-gb01c184,GB01C184,52.68,-1.808
+GB01C077,Lincoln,Lincoln,lincoln-gb01c077,GB01C077,53.229,-0.549
+GB01C007,Luton,Luton,luton-gb01c007,GB01C007,51.888,-0.424
+GB01C142,Maidstone,Maidstone,maidstone-gb01c142,GB01C142,51.245,0.581
+GB01C105,Maldon,Maldon,maldon-gb01c105,GB01C105,51.721,0.764
+GB01C217,Malvern Hills,Malvern Hills,malvern-hills-gb01c217,GB01C217,52.075,-2.255
+GB01C022,Manchester,Manchester,manchester-gb01c022,GB01C022,53.462,-2.217
+GB01C177,Mansfield,Mansfield,mansfield-gb01c177,GB01C177,53.152,-1.178
+GB01C072,Medway,Medway,medway-gb01c072,GB01C072,51.427,0.567
+GB01C157,Melton,Melton,melton-gb01c157,GB01C157,52.803,-0.859
+GB01C229,Merton,Merton,merton-gb01c229,GB01C229,51.413,-0.209
+GB01C193,Mid Suffolk,Mid Suffolk,mid-suffolk-gb01c193,GB01C193,52.234,1.072
+GB01C213,Mid Sussex,Mid Sussex,mid-sussex-gb01c213,GB01C213,51.043,-0.117
+GB01C014,Middlesbrough,Middlesbrough,middlesbrough-gb01c014,GB01C014,54.548,-1.235
+GB01C026,Milton Keynes,Milton Keynes,milton-keynes-gb01c026,GB01C026,52.081,-0.745
+GB01C202,Mole Valley,Mole Valley,mole-valley-gb01c202,GB01C202,51.214,-0.325
+GB01C115,New Forest,New Forest,new-forest-gb01c115,GB01C115,50.839,-1.603
+GB01C078,Newark and Sherwood,Newark and Sherwood,newark-and-sherwood-gb01c078,GB01C078,53.126,-0.916
+GB01C038,Newcastle upon Tyne,Newcastle upon Tyne,newcastle-upon-tyne-gb01c038,GB01C038,55.01,-1.666
+GB01C185,Newcastle-under-Lyme,Newcastle-under-Lyme,newcastle-under-lyme-gb01c185,GB01C185,53.007,-2.309
+GB01C253,Newham,Newham,newham-gb01c253,GB01C253,51.526,0.038
+GB01C088,North East Derbyshire,North East Derbyshire,north-east-derbyshire-gb01c088,GB01C088,53.16,-1.433
+GB01C011,North East Lincolnshire,North East Lincolnshire,north-east-lincolnshire-gb01c011,GB01C011,53.535,-0.131
+GB01C132,North Hertfordshire,North Hertfordshire,north-hertfordshire-gb01c132,GB01C132,51.915,-0.296
+GB01C165,North Kesteven,North Kesteven,north-kesteven-gb01c165,GB01C165,53.052,-0.379
+GB01C023,North Lincolnshire,North Lincolnshire,north-lincolnshire-gb01c023,GB01C023,53.611,-0.623
+GB01C224,North Norfolk,North Norfolk,north-norfolk-gb01c224,GB01C224,52.889,1
+GB01C262,North Northamptonshire,North Northamptonshire,north-northamptonshire-gb01c262,GB01C262,52.428,-0.622
+GB01C057,North Tyneside,North Tyneside,north-tyneside-gb01c057,GB01C057,55.02,-1.525
+GB01C205,North Warwickshire,North Warwickshire,north-warwickshire-gb01c205,GB01C205,52.534,-1.626
+GB01C156,North West Leicestershire,North West Leicestershire,north-west-leicestershire-gb01c156,GB01C156,52.743,-1.408
+GB01C004,North Yorkshire,North Yorkshire,north-yorkshire-gb01c004,GB01C004,54.201,-1.437
+GB01C171,Norwich,Norwich,norwich-gb01c171,GB01C171,52.627,1.28
+GB01C008,Nottingham,Nottingham,nottingham-gb01c008,GB01C008,52.963,-1.178
+GB01C209,Nuneaton and Bedworth,Nuneaton and Bedworth,nuneaton-and-bedworth-gb01c209,GB01C209,52.501,-1.476
+GB01C076,Oadby and Wigston,Oadby and Wigston,oadby-and-wigston-gb01c076,GB01C076,52.59,-1.085
+GB01C037,Oldham,Oldham,oldham-gb01c037,GB01C037,53.568,-2.016
+GB01C079,Oxford,Oxford,oxford-gb01c079,GB01C079,51.752,-1.24
+GB01C151,Pendle,Pendle,pendle-gb01c151,GB01C151,53.876,-2.163
+GB01C006,Peterborough,Peterborough,peterborough-gb01c006,GB01C006,52.589,-0.273
+GB01C062,Portsmouth,Portsmouth,portsmouth-gb01c062,GB01C062,50.817,-1.078
+GB01C150,Preston,Preston,preston-gb01c150,GB01C150,53.804,-2.688
+GB01C045,Reading,Reading,reading-gb01c045,GB01C045,51.453,-0.983
+GB01C252,Redbridge,Redbridge,redbridge-gb01c252,GB01C252,51.576,0.084
+GB01C016,Redcar and Cleveland,Redcar and Cleveland,redcar-and-cleveland-gb01c016,GB01C016,54.552,-1.039
+GB01C222,Redditch,Redditch,redditch-gb01c222,GB01C222,52.274,-1.965
+GB01C201,Reigate and Banstead,Reigate and Banstead,reigate-and-banstead-gb01c201,GB01C201,51.258,-0.186
+GB01C152,Ribble Valley,Ribble Valley,ribble-valley-gb01c152,GB01C152,53.912,-2.464
+GB01C232,Richmond upon Thames,Richmond upon Thames,richmond-upon-thames-gb01c232,GB01C232,51.43,-0.341
+GB01C061,Rochdale,Rochdale,rochdale-gb01c061,GB01C061,53.592,-2.2
+GB01C099,Rochford,Rochford,rochford-gb01c099,GB01C099,51.583,0.813
+GB01C149,Rossendale,Rossendale,rossendale-gb01c149,GB01C149,53.7,-2.269
+GB01C094,Rother,Rother,rother-gb01c094,GB01C094,50.958,0.475
+GB01C013,Rotherham,Rotherham,rotherham-gb01c013,GB01C013,53.406,-1.303
+GB01C206,Rugby,Rugby,rugby-gb01c206,GB01C206,52.389,-1.338
+GB01C199,Runnymede,Runnymede,runnymede-gb01c199,GB01C199,51.397,-0.543
+GB01C173,Rushcliffe,Rushcliffe,rushcliffe-gb01c173,GB01C173,52.886,-1.038
+GB01C124,Rushmoor,Rushmoor,rushmoor-gb01c124,GB01C124,51.27,-0.763
+GB01C071,Rutland,Rutland,rutland-gb01c071,GB01C071,52.663,-0.658
+GB01C051,Salford,Salford,salford-gb01c051,GB01C051,53.498,-2.382
+GB01C056,Sandwell,Sandwell,sandwell-gb01c056,GB01C056,52.523,-2.008
+GB01C136,Sevenoaks,Sevenoaks,sevenoaks-gb01c136,GB01C136,51.281,0.159
+GB01C064,Sheffield,Sheffield,sheffield-gb01c064,GB01C064,53.374,-1.531
+GB01C060,Slough,Slough,slough-gb01c060,GB01C060,51.515,-0.609
+GB01C059,Solihull,Solihull,solihull-gb01c059,GB01C059,52.417,-1.729
+GB01C081,South Cambridgeshire,South Cambridgeshire,south-cambridgeshire-gb01c081,GB01C081,52.159,-0.003
+GB01C086,South Derbyshire,South Derbyshire,south-derbyshire-gb01c086,GB01C086,52.826,-1.527
+GB01C163,South Holland,South Holland,south-holland-gb01c163,GB01C163,52.768,-0.037
+GB01C162,South Kesteven,South Kesteven,south-kesteven-gb01c162,GB01C162,52.86,-0.572
+GB01C168,South Norfolk,South Norfolk,south-norfolk-gb01c168,GB01C168,52.492,1.215
+GB01C179,South Oxfordshire,South Oxfordshire,south-oxfordshire-gb01c179,GB01C179,51.635,-1.075
+GB01C148,South Ribble,South Ribble,south-ribble-gb01c148,GB01C148,53.715,-2.708
+GB01C183,South Staffordshire,South Staffordshire,south-staffordshire-gb01c183,GB01C183,52.679,-2.179
+GB01C017,South Tyneside,South Tyneside,south-tyneside-gb01c017,GB01C017,54.969,-1.424
+GB01C024,Southampton,Southampton,southampton-gb01c024,GB01C024,50.915,-1.387
+GB01C003,Southend-on-Sea,Southend-on-Sea,southend-on-sea-gb01c003,GB01C003,51.541,0.721
+GB01C240,Southwark,Southwark,southwark-gb01c240,GB01C240,51.476,-0.073
+GB01C204,Spelthorne,Spelthorne,spelthorne-gb01c204,GB01C204,51.413,-0.463
+GB01C130,St.  Albans,St.  Albans,st-albans-gb01c130,GB01C130,51.772,-0.342
+GB01C186,Stafford,Stafford,stafford-gb01c186,GB01C186,52.852,-2.205
+GB01C182,Staffordshire Moorlands,Staffordshire Moorlands,staffordshire-moorlands-gb01c182,GB01C182,53.075,-1.985
+GB01C133,Stevenage,Stevenage,stevenage-gb01c133,GB01C133,51.905,-0.19
+GB01C019,Stockport,Stockport,stockport-gb01c019,GB01C019,53.402,-2.128
+GB01C066,Stockton-on-Tees,Stockton-on-Tees,stockton-on-tees-gb01c066,GB01C066,54.559,-1.344
+GB01C009,Stoke-on-Trent,Stoke-on-Trent,stoke-on-trent-gb01c009,GB01C009,53.014,-2.163
+GB01C208,Stratford-on-Avon,Stratford-on-Avon,stratford-on-avon-gb01c208,GB01C208,52.128,-1.623
+GB01C111,Stroud,Stroud,stroud-gb01c111,GB01C111,51.743,-2.316
+GB01C046,Sunderland,Sunderland,sunderland-gb01c046,GB01C046,54.88,-1.454
+GB01C198,Surrey Heath,Surrey Heath,surrey-heath-gb01c198,GB01C198,51.35,-0.659
+GB01C228,Sutton,Sutton,sutton-gb01c228,GB01C228,51.363,-0.176
+GB01C143,Swale,Swale,swale-gb01c143,GB01C143,51.329,0.851
+GB01C055,Swindon,Swindon,swindon-gb01c055,GB01C055,51.563,-1.757
+GB01C030,Tameside,Tameside,tameside-gb01c030,GB01C030,53.476,-2.065
+GB01C189,Tamworth,Tamworth,tamworth-gb01c189,GB01C189,52.627,-1.669
+GB01C196,Tandridge,Tandridge,tandridge-gb01c196,GB01C196,51.23,-0.045
+GB01C025,Telford and Wrekin,Telford and Wrekin,telford-and-wrekin-gb01c025,GB01C025,52.711,-2.486
+GB01C101,Tendring,Tendring,tendring-gb01c101,GB01C101,51.861,1.112
+GB01C119,Test Valley,Test Valley,test-valley-gb01c119,GB01C119,51.145,-1.529
+GB01C112,Tewkesbury,Tewkesbury,tewkesbury-gb01c112,GB01C112,51.967,-2
+GB01C138,Thanet,Thanet,thanet-gb01c138,GB01C138,51.35,1.341
+GB01C053,The City of Brighton and Hove,The City of Brighton and Hove,the-city-of-brighton-and-hove-gb01c053,GB01C053,50.848,-0.135
+GB01C125,Three Rivers,Three Rivers,three-rivers-gb01c125,GB01C125,51.659,-0.474
+GB01C027,Thurrock,Thurrock,thurrock-gb01c027,GB01C027,51.507,0.376
+GB01C137,Tonbridge and Malling,Tonbridge and Malling,tonbridge-and-malling-gb01c137,GB01C137,51.266,0.328
+GB01C242,Tower Hamlets,Tower Hamlets,tower-hamlets-gb01c242,GB01C242,51.523,-0.032
+GB01C032,Trafford,Trafford,trafford-gb01c032,GB01C032,53.417,-2.366
+GB01C134,Tunbridge Wells,Tunbridge Wells,tunbridge-wells-gb01c134,GB01C134,51.122,0.427
+GB01C102,Uttlesford,Uttlesford,uttlesford-gb01c102,GB01C102,51.938,0.295
+GB01C178,Vale of White Horse,Vale of White Horse,vale-of-white-horse-gb01c178,GB01C178,51.624,-1.438
+GB01C035,Wakefield,Wakefield,wakefield-gb01c035,GB01C035,53.662,-1.408
+GB01C018,Walsall,Walsall,walsall-gb01c018,GB01C018,52.602,-1.966
+GB01C247,Waltham Forest,Waltham Forest,waltham-forest-gb01c247,GB01C247,51.588,-0.016
+GB01C237,Wandsworth,Wandsworth,wandsworth-gb01c237,GB01C237,51.449,-0.171
+GB01C040,Warrington,Warrington,warrington-gb01c040,GB01C040,53.395,-2.554
+GB01C207,Warwick,Warwick,warwick-gb01c207,GB01C207,52.305,-1.588
+GB01C075,Watford,Watford,watford-gb01c075,GB01C075,51.668,-0.408
+GB01C195,Waverley,Waverley,waverley-gb01c195,GB01C195,51.136,-0.593
+GB01C095,Wealden,Wealden,wealden-gb01c095,GB01C095,50.995,0.202
+GB01C131,Welwyn Hatfield,Welwyn Hatfield,welwyn-hatfield-gb01c131,GB01C131,51.764,-0.2
+GB01C015,West Berkshire,West Berkshire,west-berkshire-gb01c015,GB01C015,51.464,-1.304
+GB01C161,West Lindsey,West Lindsey,west-lindsey-gb01c161,GB01C161,53.356,-0.425
+GB01C259,West Northamptonshire,West Northamptonshire,west-northamptonshire-gb01c259,GB01C259,52.248,-1.041
+GB01C181,West Oxfordshire,West Oxfordshire,west-oxfordshire-gb01c181,GB01C181,51.841,-1.503
+GB01C192,West Suffolk,West Suffolk,west-suffolk-gb01c192,GB01C192,52.281,0.627
+GB01C241,Westminster,Westminster,westminster-gb01c241,GB01C241,51.519,-0.17
+GB01C261,Westmorland and Furness,Westmorland and Furness,westmorland-and-furness-gb01c261,GB01C261,54.5,-2.692
+GB01C054,Wigan,Wigan,wigan-gb01c054,GB01C054,53.536,-2.618
+GB01C033,Wiltshire,Wiltshire,wiltshire-gb01c033,GB01C033,51.276,-1.953
+GB01C118,Winchester,Winchester,winchester-gb01c118,GB01C118,51.05,-1.204
+GB01C034,Windsor and Maidenhead,Windsor and Maidenhead,windsor-and-maidenhead-gb01c034,GB01C034,51.515,-0.752
+GB01C197,Woking,Woking,woking-gb01c197,GB01C197,51.308,-0.57
+GB01C041,Wokingham,Wokingham,wokingham-gb01c041,GB01C041,51.417,-0.875
+GB01C001,Wolverhampton,Wolverhampton,wolverhampton-gb01c001,GB01C001,52.597,-2.123
+GB01C221,Worcester,Worcester,worcester-gb01c221,GB01C221,52.195,-2.211
+GB01C215,Worthing,Worthing,worthing-gb01c215,GB01C215,50.833,-0.389
+GB01C219,Wychavon,Wychavon,wychavon-gb01c219,GB01C219,52.135,-2.055
+GB01C218,Wyre Forest,Wyre Forest,wyre-forest-gb01c218,GB01C218,52.392,-2.285
+GB01C043,York,York,york-gb01c043,GB01C043,53.962,-1.064

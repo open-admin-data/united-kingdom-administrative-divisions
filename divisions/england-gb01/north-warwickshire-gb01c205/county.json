@@ -1,0 +1,45 @@
+{
+  "id": "GB01C205",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "North Warwickshire",
+    "en": "North Warwickshire",
+    "slug": "north-warwickshire-gb01c205"
+  },
+  "code": {
+    "id": "GB01C205",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.534",
+    "lon": "-1.626"
+  },
+  "metadata": {},
+  "source": {}
+}

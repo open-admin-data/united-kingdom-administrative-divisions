@@ -1,0 +1,45 @@
+{
+  "id": "GB01C241",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Westminster",
+    "en": "Westminster",
+    "slug": "westminster-gb01c241"
+  },
+  "code": {
+    "id": "GB01C241",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.519",
+    "lon": "-0.17"
+  },
+  "metadata": {},
+  "source": {}
+}

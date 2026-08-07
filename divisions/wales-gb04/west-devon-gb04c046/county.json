@@ -1,0 +1,45 @@
+{
+  "id": "GB04C046",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "West Devon",
+    "en": "West Devon",
+    "slug": "west-devon-gb04c046"
+  },
+  "code": {
+    "id": "GB04C046",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.663",
+    "lon": "-4.042"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB03C001",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Antrim and Newtownabbey",
+    "en": "Antrim and Newtownabbey",
+    "slug": "antrim-and-newtownabbey-gb03c001"
+  },
+  "code": {
+    "id": "GB03C001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB03",
+    "level": 1,
+    "name": {
+      "local": "Northern Ireland",
+      "en": "Northern Ireland",
+      "slug": "northern-ireland-gb03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.698",
+    "lon": "-6.204"
+  },
+  "metadata": {},
+  "source": {}
+}

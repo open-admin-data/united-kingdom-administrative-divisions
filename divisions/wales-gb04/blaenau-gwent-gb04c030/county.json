@@ -1,0 +1,45 @@
+{
+  "id": "GB04C030",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Blaenau Gwent",
+    "en": "Blaenau Gwent",
+    "slug": "blaenau-gwent-gb04c030"
+  },
+  "code": {
+    "id": "GB04C030",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.774",
+    "lon": "-3.184"
+  },
+  "metadata": {},
+  "source": {}
+}

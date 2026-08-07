@@ -1,0 +1,45 @@
+{
+  "id": "GB01C216",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Crawley",
+    "en": "Crawley",
+    "slug": "crawley-gb01c216"
+  },
+  "code": {
+    "id": "GB01C216",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.124",
+    "lon": "-0.173"
+  },
+  "metadata": {},
+  "source": {}
+}

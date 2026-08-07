@@ -1,0 +1,45 @@
+{
+  "id": "GB01C227",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Croydon",
+    "en": "Croydon",
+    "slug": "croydon-gb01c227"
+  },
+  "code": {
+    "id": "GB01C227",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.363",
+    "lon": "-0.079"
+  },
+  "metadata": {},
+  "source": {}
+}

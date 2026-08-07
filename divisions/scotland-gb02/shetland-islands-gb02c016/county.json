@@ -1,0 +1,45 @@
+{
+  "id": "GB02C016",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Shetland Islands",
+    "en": "Shetland Islands",
+    "slug": "shetland-islands-gb02c016"
+  },
+  "code": {
+    "id": "GB02C016",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB02",
+    "level": 1,
+    "name": {
+      "local": "Scotland",
+      "en": "Scotland",
+      "slug": "scotland-gb02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "60.502",
+    "lon": "-1.294"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB02C018",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "South Lanarkshire",
+    "en": "South Lanarkshire",
+    "slug": "south-lanarkshire-gb02c018"
+  },
+  "code": {
+    "id": "GB02C018",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB02",
+    "level": 1,
+    "name": {
+      "local": "Scotland",
+      "en": "Scotland",
+      "slug": "scotland-gb02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.616",
+    "lon": "-3.804"
+  },
+  "metadata": {},
+  "source": {}
+}

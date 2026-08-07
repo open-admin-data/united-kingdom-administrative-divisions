@@ -1,0 +1,45 @@
+{
+  "id": "GB01C097",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Hastings",
+    "en": "Hastings",
+    "slug": "hastings-gb01c097"
+  },
+  "code": {
+    "id": "GB01C097",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.871",
+    "lon": "0.549"
+  },
+  "metadata": {},
+  "source": {}
+}

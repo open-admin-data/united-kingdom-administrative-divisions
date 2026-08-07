@@ -1,0 +1,45 @@
+{
+  "id": "GB01C147",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Chorley",
+    "en": "Chorley",
+    "slug": "chorley-gb01c147"
+  },
+  "code": {
+    "id": "GB01C147",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.666",
+    "lon": "-2.606"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB01C144",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Dartford",
+    "en": "Dartford",
+    "slug": "dartford-gb01c144"
+  },
+  "code": {
+    "id": "GB01C144",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.438",
+    "lon": "0.245"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB01C080",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Fenland",
+    "en": "Fenland",
+    "slug": "fenland-gb01c080"
+  },
+  "code": {
+    "id": "GB01C080",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.546",
+    "lon": "0.082"
+  },
+  "metadata": {},
+  "source": {}
+}

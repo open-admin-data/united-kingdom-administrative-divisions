@@ -1,0 +1,45 @@
+{
+  "id": "GB01C212",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Chichester",
+    "en": "Chichester",
+    "slug": "chichester-gb01c212"
+  },
+  "code": {
+    "id": "GB01C212",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.945",
+    "lon": "-0.766"
+  },
+  "metadata": {},
+  "source": {}
+}

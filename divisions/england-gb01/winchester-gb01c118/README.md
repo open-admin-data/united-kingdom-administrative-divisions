@@ -1,0 +1,21 @@
+# Winchester
+
+[Home](../../../) &gt; [England](../) > **Winchester**
+
+Winchester is a county/council in United Kingdom, under England.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | GB01C118 |
+| Coordinates | 51.05, -1.204 |
+| Parent | England |
+
+## Data Files
+
+- [county.json](county.json) — County/Council metadata
+
+---
+
+<- Back to [England](../)

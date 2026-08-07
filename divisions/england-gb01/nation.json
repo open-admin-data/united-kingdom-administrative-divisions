@@ -1,0 +1,33 @@
+{
+  "id": "GB01",
+  "level": 1,
+  "level_name": {
+    "local": "Nation",
+    "en": "Nation"
+  },
+  "name": {
+    "local": "England",
+    "en": "England",
+    "slug": "england-gb01"
+  },
+  "code": {
+    "id": "GB01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 262
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.546",
+    "lon": "-1.408"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gb/nations/england-gb01/",
+    "api": "https://openadmindata.org/api/gb/"
+  }
+}

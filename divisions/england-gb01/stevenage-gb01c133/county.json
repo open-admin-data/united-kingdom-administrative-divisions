@@ -1,0 +1,45 @@
+{
+  "id": "GB01C133",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Stevenage",
+    "en": "Stevenage",
+    "slug": "stevenage-gb01c133"
+  },
+  "code": {
+    "id": "GB01C133",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.905",
+    "lon": "-0.19"
+  },
+  "metadata": {},
+  "source": {}
+}

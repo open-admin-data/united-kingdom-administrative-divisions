@@ -1,0 +1,45 @@
+{
+  "id": "GB01C261",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Westmorland and Furness",
+    "en": "Westmorland and Furness",
+    "slug": "westmorland-and-furness-gb01c261"
+  },
+  "code": {
+    "id": "GB01C261",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.5",
+    "lon": "-2.692"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB01C113",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Cheltenham",
+    "en": "Cheltenham",
+    "slug": "cheltenham-gb01c113"
+  },
+  "code": {
+    "id": "GB01C113",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.903",
+    "lon": "-2.079"
+  },
+  "metadata": {},
+  "source": {}
+}

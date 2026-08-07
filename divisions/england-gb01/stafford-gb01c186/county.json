@@ -1,0 +1,45 @@
+{
+  "id": "GB01C186",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Stafford",
+    "en": "Stafford",
+    "slug": "stafford-gb01c186"
+  },
+  "code": {
+    "id": "GB01C186",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.852",
+    "lon": "-2.205"
+  },
+  "metadata": {},
+  "source": {}
+}

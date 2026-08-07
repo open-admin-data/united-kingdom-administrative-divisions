@@ -1,0 +1,45 @@
+{
+  "id": "GB03C004",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Causeway Coast and Glens",
+    "en": "Causeway Coast and Glens",
+    "slug": "causeway-coast-and-glens-gb03c004"
+  },
+  "code": {
+    "id": "GB03C004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB03",
+    "level": 1,
+    "name": {
+      "local": "Northern Ireland",
+      "en": "Northern Ireland",
+      "slug": "northern-ireland-gb03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB03",
+      "level": 1,
+      "name": {
+        "local": "Northern Ireland",
+        "en": "Northern Ireland",
+        "slug": "northern-ireland-gb03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.069",
+    "lon": "-6.594"
+  },
+  "metadata": {},
+  "source": {}
+}

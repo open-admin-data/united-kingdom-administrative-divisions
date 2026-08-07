@@ -1,0 +1,45 @@
+{
+  "id": "GB04C053",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "South Hams",
+    "en": "South Hams",
+    "slug": "south-hams-gb04c053"
+  },
+  "code": {
+    "id": "GB04C053",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.368",
+    "lon": "-3.823"
+  },
+  "metadata": {},
+  "source": {}
+}

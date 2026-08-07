@@ -1,0 +1,21 @@
+# Bracknell Forest
+
+[Home](../../../) &gt; [England](../) > **Bracknell Forest**
+
+Bracknell Forest is a county/council in United Kingdom, under England.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | GB01C052 |
+| Coordinates | 51.413, -0.741 |
+| Parent | England |
+
+## Data Files
+
+- [county.json](county.json) — County/Council metadata
+
+---
+
+<- Back to [England](../)

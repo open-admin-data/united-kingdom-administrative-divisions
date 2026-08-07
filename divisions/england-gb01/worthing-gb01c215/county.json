@@ -1,0 +1,45 @@
+{
+  "id": "GB01C215",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Worthing",
+    "en": "Worthing",
+    "slug": "worthing-gb01c215"
+  },
+  "code": {
+    "id": "GB01C215",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.833",
+    "lon": "-0.389"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB01C033",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Wiltshire",
+    "en": "Wiltshire",
+    "slug": "wiltshire-gb01c033"
+  },
+  "code": {
+    "id": "GB01C033",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.276",
+    "lon": "-1.953"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB01C084",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Cambridge",
+    "en": "Cambridge",
+    "slug": "cambridge-gb01c084"
+  },
+  "code": {
+    "id": "GB01C084",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.202",
+    "lon": "0.134"
+  },
+  "metadata": {},
+  "source": {}
+}

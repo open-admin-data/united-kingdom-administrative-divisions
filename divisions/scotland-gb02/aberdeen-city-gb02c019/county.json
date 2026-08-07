@@ -1,0 +1,45 @@
+{
+  "id": "GB02C019",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Aberdeen City",
+    "en": "Aberdeen City",
+    "slug": "aberdeen-city-gb02c019"
+  },
+  "code": {
+    "id": "GB02C019",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB02",
+    "level": 1,
+    "name": {
+      "local": "Scotland",
+      "en": "Scotland",
+      "slug": "scotland-gb02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.163",
+    "lon": "-2.174"
+  },
+  "metadata": {},
+  "source": {}
+}

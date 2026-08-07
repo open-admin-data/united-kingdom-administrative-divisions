@@ -1,0 +1,45 @@
+{
+  "id": "GB01C034",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Windsor and Maidenhead",
+    "en": "Windsor and Maidenhead",
+    "slug": "windsor-and-maidenhead-gb01c034"
+  },
+  "code": {
+    "id": "GB01C034",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.515",
+    "lon": "-0.752"
+  },
+  "metadata": {},
+  "source": {}
+}

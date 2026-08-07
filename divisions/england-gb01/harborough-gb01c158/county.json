@@ -1,0 +1,45 @@
+{
+  "id": "GB01C158",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Harborough",
+    "en": "Harborough",
+    "slug": "harborough-gb01c158"
+  },
+  "code": {
+    "id": "GB01C158",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.577",
+    "lon": "-0.954"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GB04C021",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Isles of Scilly",
+    "en": "Isles of Scilly",
+    "slug": "isles-of-scilly-gb04c021"
+  },
+  "code": {
+    "id": "GB04C021",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.924",
+    "lon": "-6.297"
+  },
+  "metadata": {},
+  "source": {}
+}

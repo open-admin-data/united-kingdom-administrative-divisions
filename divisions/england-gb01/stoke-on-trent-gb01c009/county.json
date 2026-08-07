@@ -1,0 +1,45 @@
+{
+  "id": "GB01C009",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Stoke-on-Trent",
+    "en": "Stoke-on-Trent",
+    "slug": "stoke-on-trent-gb01c009"
+  },
+  "code": {
+    "id": "GB01C009",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.014",
+    "lon": "-2.163"
+  },
+  "metadata": {},
+  "source": {}
+}

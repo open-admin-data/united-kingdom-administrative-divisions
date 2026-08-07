@@ -1,0 +1,45 @@
+{
+  "id": "GB01C203",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Elmbridge",
+    "en": "Elmbridge",
+    "slug": "elmbridge-gb01c203"
+  },
+  "code": {
+    "id": "GB01C203",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.361",
+    "lon": "-0.385"
+  },
+  "metadata": {},
+  "source": {}
+}

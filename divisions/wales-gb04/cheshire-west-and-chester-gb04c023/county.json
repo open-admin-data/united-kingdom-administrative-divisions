@@ -1,0 +1,45 @@
+{
+  "id": "GB04C023",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Cheshire West and Chester",
+    "en": "Cheshire West and Chester",
+    "slug": "cheshire-west-and-chester-gb04c023"
+  },
+  "code": {
+    "id": "GB04C023",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.187",
+    "lon": "-2.795"
+  },
+  "metadata": {},
+  "source": {}
+}

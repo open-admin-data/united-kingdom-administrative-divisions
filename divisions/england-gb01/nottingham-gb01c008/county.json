@@ -1,0 +1,45 @@
+{
+  "id": "GB01C008",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Nottingham",
+    "en": "Nottingham",
+    "slug": "nottingham-gb01c008"
+  },
+  "code": {
+    "id": "GB01C008",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.963",
+    "lon": "-1.178"
+  },
+  "metadata": {},
+  "source": {}
+}

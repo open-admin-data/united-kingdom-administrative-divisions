@@ -1,0 +1,45 @@
+{
+  "id": "GB02C023",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "East Lothian",
+    "en": "East Lothian",
+    "slug": "east-lothian-gb02c023"
+  },
+  "code": {
+    "id": "GB02C023",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB02",
+    "level": 1,
+    "name": {
+      "local": "Scotland",
+      "en": "Scotland",
+      "slug": "scotland-gb02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.948",
+    "lon": "-2.726"
+  },
+  "metadata": {},
+  "source": {}
+}

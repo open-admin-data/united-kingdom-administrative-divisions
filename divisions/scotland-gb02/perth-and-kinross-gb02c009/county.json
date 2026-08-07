@@ -1,0 +1,45 @@
+{
+  "id": "GB02C009",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Perth and Kinross",
+    "en": "Perth and Kinross",
+    "slug": "perth-and-kinross-gb02c009"
+  },
+  "code": {
+    "id": "GB02C009",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB02",
+    "level": 1,
+    "name": {
+      "local": "Scotland",
+      "en": "Scotland",
+      "slug": "scotland-gb02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.571",
+    "lon": "-3.762"
+  },
+  "metadata": {},
+  "source": {}
+}

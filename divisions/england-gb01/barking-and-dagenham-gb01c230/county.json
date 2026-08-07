@@ -1,0 +1,45 @@
+{
+  "id": "GB01C230",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Barking and Dagenham",
+    "en": "Barking and Dagenham",
+    "slug": "barking-and-dagenham-gb01c230"
+  },
+  "code": {
+    "id": "GB01C230",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.54",
+    "lon": "0.139"
+  },
+  "metadata": {},
+  "source": {}
+}

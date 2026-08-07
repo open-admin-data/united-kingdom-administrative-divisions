@@ -1,0 +1,45 @@
+{
+  "id": "GB01C183",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "South Staffordshire",
+    "en": "South Staffordshire",
+    "slug": "south-staffordshire-gb01c183"
+  },
+  "code": {
+    "id": "GB01C183",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.679",
+    "lon": "-2.179"
+  },
+  "metadata": {},
+  "source": {}
+}

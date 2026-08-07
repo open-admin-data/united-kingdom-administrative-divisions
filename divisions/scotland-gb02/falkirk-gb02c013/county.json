@@ -1,0 +1,45 @@
+{
+  "id": "GB02C013",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Falkirk",
+    "en": "Falkirk",
+    "slug": "falkirk-gb02c013"
+  },
+  "code": {
+    "id": "GB02C013",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB02",
+    "level": 1,
+    "name": {
+      "local": "Scotland",
+      "en": "Scotland",
+      "slug": "scotland-gb02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB02",
+      "level": 1,
+      "name": {
+        "local": "Scotland",
+        "en": "Scotland",
+        "slug": "scotland-gb02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.986",
+    "lon": "-3.787"
+  },
+  "metadata": {},
+  "source": {}
+}

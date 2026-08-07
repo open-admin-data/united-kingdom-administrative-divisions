@@ -1,0 +1,45 @@
+{
+  "id": "GB04C003",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Wrexham",
+    "en": "Wrexham",
+    "slug": "wrexham-gb04c003"
+  },
+  "code": {
+    "id": "GB04C003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.046",
+    "lon": "-2.969"
+  },
+  "metadata": {},
+  "source": {}
+}

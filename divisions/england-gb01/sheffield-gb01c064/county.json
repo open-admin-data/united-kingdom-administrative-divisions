@@ -1,0 +1,45 @@
+{
+  "id": "GB01C064",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Sheffield",
+    "en": "Sheffield",
+    "slug": "sheffield-gb01c064"
+  },
+  "code": {
+    "id": "GB01C064",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.374",
+    "lon": "-1.531"
+  },
+  "metadata": {},
+  "source": {}
+}

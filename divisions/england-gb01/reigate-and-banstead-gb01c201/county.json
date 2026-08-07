@@ -1,0 +1,45 @@
+{
+  "id": "GB01C201",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Reigate and Banstead",
+    "en": "Reigate and Banstead",
+    "slug": "reigate-and-banstead-gb01c201"
+  },
+  "code": {
+    "id": "GB01C201",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.258",
+    "lon": "-0.186"
+  },
+  "metadata": {},
+  "source": {}
+}

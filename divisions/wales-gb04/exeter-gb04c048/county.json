@@ -1,0 +1,45 @@
+{
+  "id": "GB04C048",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Exeter",
+    "en": "Exeter",
+    "slug": "exeter-gb04c048"
+  },
+  "code": {
+    "id": "GB04C048",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.724",
+    "lon": "-3.514"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,179 @@
+# Scotland — United Kingdom Administrative Divisions
+
+> 34 county/councils
+> Code: GB02
+> Coordinates: 56.787, -3.982
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## County/Councils
+
+### Aberdeen City
+
+Code: GB02C019, Coordinates: 57.163, -2.174
+
+
+### Aberdeenshire
+
+Code: GB02C026, Coordinates: 57.233, -2.614
+
+
+### Angus
+
+Code: GB02C006, Coordinates: 56.738, -2.878
+
+
+### Argyll and Bute
+
+Code: GB02C012, Coordinates: 56.286, -5.306
+
+
+### Clackmannanshire
+
+Code: GB02C029, Coordinates: 56.142, -3.755
+
+
+### Cumberland
+
+Code: GB02C034, Coordinates: 54.648, -3.283
+
+
+### Dumfries and Galloway
+
+Code: GB02C027, Coordinates: 55.062, -3.975
+
+
+### Dundee City
+
+Code: GB02C015, Coordinates: 56.475, -3.016
+
+
+### East Ayrshire
+
+Code: GB02C003, Coordinates: 55.449, -4.291
+
+
+### East Dunbartonshire
+
+Code: GB02C010, Coordinates: 55.959, -4.223
+
+
+### East Lothian
+
+Code: GB02C023, Coordinates: 55.948, -2.726
+
+
+### East Renfrewshire
+
+Code: GB02C031, Coordinates: 55.747, -4.343
+
+
+### Edinburgh
+
+Code: GB02C001, Coordinates: 55.93, -3.304
+
+
+### Falkirk
+
+Code: GB02C013, Coordinates: 55.986, -3.787
+
+
+### Fife
+
+Code: GB02C033, Coordinates: 56.253, -3.133
+
+
+### Glasgow City
+
+Code: GB02C005, Coordinates: 55.866, -4.269
+
+
+### Highland
+
+Code: GB02C028, Coordinates: 57.302, -4.884
+
+
+### Inverclyde
+
+Code: GB02C032, Coordinates: 55.906, -4.74
+
+
+### Midlothian
+
+Code: GB02C004, Coordinates: 55.819, -3.114
+
+
+### Moray
+
+Code: GB02C014, Coordinates: 57.475, -3.213
+
+
+### Na h-Eileanan an Iar
+
+Code: GB02C021, Coordinates: 58.226, -6.583
+
+
+### North Ayrshire
+
+Code: GB02C011, Coordinates: 55.715, -4.746
+
+
+### North Lanarkshire
+
+Code: GB02C017, Coordinates: 55.874, -3.972
+
+
+### Northumberland
+
+Code: GB02C002, Coordinates: 55.192, -2.024
+
+
+### Orkney Islands
+
+Code: GB02C008, Coordinates: 59.048, -3.2
+
+
+### Perth and Kinross
+
+Code: GB02C009, Coordinates: 56.571, -3.762
+
+
+### Renfrewshire
+
+Code: GB02C030, Coordinates: 55.862, -4.528
+
+
+### Scottish Borders
+
+Code: GB02C022, Coordinates: 55.528, -2.776
+
+
+### Shetland Islands
+
+Code: GB02C016, Coordinates: 60.502, -1.294
+
+
+### South Ayrshire
+
+Code: GB02C024, Coordinates: 55.254, -4.693
+
+
+### South Lanarkshire
+
+Code: GB02C018, Coordinates: 55.616, -3.804
+
+
+### Stirling
+
+Code: GB02C020, Coordinates: 56.25, -4.42
+
+
+### West Dunbartonshire
+
+Code: GB02C007, Coordinates: 55.995, -4.543
+
+
+### West Lothian
+
+Code: GB02C025, Coordinates: 55.892, -3.574
+
+

@@ -1,0 +1,21 @@
+# North Northamptonshire
+
+[Home](../../../) &gt; [England](../) > **North Northamptonshire**
+
+North Northamptonshire is a county/council in United Kingdom, under England.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | GB01C262 |
+| Coordinates | 52.428, -0.622 |
+| Parent | England |
+
+## Data Files
+
+- [county.json](county.json) — County/Council metadata
+
+---
+
+<- Back to [England](../)

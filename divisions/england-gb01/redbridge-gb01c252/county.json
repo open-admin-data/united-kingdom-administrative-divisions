@@ -1,0 +1,45 @@
+{
+  "id": "GB01C252",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Redbridge",
+    "en": "Redbridge",
+    "slug": "redbridge-gb01c252"
+  },
+  "code": {
+    "id": "GB01C252",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.576",
+    "lon": "0.084"
+  },
+  "metadata": {},
+  "source": {}
+}

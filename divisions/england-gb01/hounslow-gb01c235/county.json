@@ -1,0 +1,45 @@
+{
+  "id": "GB01C235",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Hounslow",
+    "en": "Hounslow",
+    "slug": "hounslow-gb01c235"
+  },
+  "code": {
+    "id": "GB01C235",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.478",
+    "lon": "-0.35"
+  },
+  "metadata": {},
+  "source": {}
+}

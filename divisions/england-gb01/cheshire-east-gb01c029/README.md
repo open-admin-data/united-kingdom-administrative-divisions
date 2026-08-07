@@ -1,0 +1,21 @@
+# Cheshire East
+
+[Home](../../../) &gt; [England](../) > **Cheshire East**
+
+Cheshire East is a county/council in United Kingdom, under England.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | GB01C029 |
+| Coordinates | 53.227, -2.246 |
+| Parent | England |
+
+## Data Files
+
+- [county.json](county.json) — County/Council metadata
+
+---
+
+<- Back to [England](../)

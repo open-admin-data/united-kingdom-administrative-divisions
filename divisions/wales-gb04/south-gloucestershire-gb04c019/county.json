@@ -1,0 +1,45 @@
+{
+  "id": "GB04C019",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "South Gloucestershire",
+    "en": "South Gloucestershire",
+    "slug": "south-gloucestershire-gb04c019"
+  },
+  "code": {
+    "id": "GB04C019",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.564",
+    "lon": "-2.474"
+  },
+  "metadata": {},
+  "source": {}
+}

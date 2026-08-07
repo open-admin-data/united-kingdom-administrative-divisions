@@ -1,0 +1,64 @@
+# Northern Ireland — United Kingdom Administrative Divisions
+
+> 11 county/councils
+> Code: GB03
+> Coordinates: 54.76, -6.892
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## County/Councils
+
+### Antrim and Newtownabbey
+
+Code: GB03C001, Coordinates: 54.698, -6.204
+
+
+### Ards and North Down
+
+Code: GB03C011, Coordinates: 54.563, -5.65
+
+
+### Armagh City, Banbridge and Craigavon
+
+Code: GB03C002, Coordinates: 54.418, -6.427
+
+
+### Belfast
+
+Code: GB03C003, Coordinates: 54.592, -5.962
+
+
+### Causeway Coast and Glens
+
+Code: GB03C004, Coordinates: 55.069, -6.594
+
+
+### Derry City and Strabane
+
+Code: GB03C005, Coordinates: 54.897, -7.24
+
+
+### Fermanagh and Omagh
+
+Code: GB03C006, Coordinates: 54.416, -7.564
+
+
+### Lisburn and Castlereagh
+
+Code: GB03C007, Coordinates: 54.528, -6.139
+
+
+### Mid and East Antrim
+
+Code: GB03C008, Coordinates: 54.91, -6.21
+
+
+### Mid Ulster
+
+Code: GB03C009, Coordinates: 54.654, -6.758
+
+
+### Newry, Mourne and Down
+
+Code: GB03C010, Coordinates: 54.153, -6.019
+
+

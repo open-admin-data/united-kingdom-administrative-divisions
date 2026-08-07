@@ -1,0 +1,45 @@
+{
+  "id": "GB01C066",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Stockton-on-Tees",
+    "en": "Stockton-on-Tees",
+    "slug": "stockton-on-tees-gb01c066"
+  },
+  "code": {
+    "id": "GB01C066",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.559",
+    "lon": "-1.344"
+  },
+  "metadata": {},
+  "source": {}
+}

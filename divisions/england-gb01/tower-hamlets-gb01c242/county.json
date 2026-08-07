@@ -1,0 +1,45 @@
+{
+  "id": "GB01C242",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Tower Hamlets",
+    "en": "Tower Hamlets",
+    "slug": "tower-hamlets-gb01c242"
+  },
+  "code": {
+    "id": "GB01C242",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB01",
+    "level": 1,
+    "name": {
+      "local": "England",
+      "en": "England",
+      "slug": "england-gb01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB01",
+      "level": 1,
+      "name": {
+        "local": "England",
+        "en": "England",
+        "slug": "england-gb01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.523",
+    "lon": "-0.032"
+  },
+  "metadata": {},
+  "source": {}
+}

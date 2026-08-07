@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "GB04C007",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Bath and North East Somerset",
+      "en": "Bath and North East Somerset",
+      "slug": "bath-and-north-east-somerset-gb04c007"
+    },
+    "code": {
+      "id": "GB04C007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.347",
+      "lon": "-2.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C011",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Blackpool",
+      "en": "Blackpool",
+      "slug": "blackpool-gb04c011"
+    },
+    "code": {
+      "id": "GB04C011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.814",
+      "lon": "-3.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C030",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Blaenau Gwent",
+      "en": "Blaenau Gwent",
+      "slug": "blaenau-gwent-gb04c030"
+    },
+    "code": {
+      "id": "GB04C030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.774",
+      "lon": "-3.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C033",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Bridgend",
+      "en": "Bridgend",
+      "slug": "bridgend-gb04c033"
+    },
+    "code": {
+      "id": "GB04C033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.566",
+      "lon": "-3.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C005",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Bristol",
+      "en": "Bristol",
+      "slug": "bristol-gb04c005"
+    },
+    "code": {
+      "id": "GB04C005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.451",
+      "lon": "-2.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C024",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Caerphilly",
+      "en": "Caerphilly",
+      "slug": "caerphilly-gb04c024"
+    },
+    "code": {
+      "id": "GB04C024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.638",
+      "lon": "-3.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C039",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Cardiff",
+      "en": "Cardiff",
+      "slug": "cardiff-gb04c039"
+    },
+    "code": {
+      "id": "GB04C039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.509",
+      "lon": "-3.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C009",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Carmarthenshire",
+      "en": "Carmarthenshire",
+      "slug": "carmarthenshire-gb04c009"
+    },
+    "code": {
+      "id": "GB04C009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.856",
+      "lon": "-4.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C042",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Ceredigion",
+      "en": "Ceredigion",
+      "slug": "ceredigion-gb04c042"
+    },
+    "code": {
+      "id": "GB04C042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.322",
+      "lon": "-3.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C023",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Cheshire West and Chester",
+      "en": "Cheshire West and Chester",
+      "slug": "cheshire-west-and-chester-gb04c023"
+    },
+    "code": {
+      "id": "GB04C023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.187",
+      "lon": "-2.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C002",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Conwy",
+      "en": "Conwy",
+      "slug": "conwy-gb04c002"
+    },
+    "code": {
+      "id": "GB04C002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.147",
+      "lon": "-3.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C037",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Cornwall",
+      "en": "Cornwall",
+      "slug": "cornwall-gb04c037"
+    },
+    "code": {
+      "id": "GB04C037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.558",
+      "lon": "-4.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C008",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Denbighshire",
+      "en": "Denbighshire",
+      "slug": "denbighshire-gb04c008"
+    },
+    "code": {
+      "id": "GB04C008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.076",
+      "lon": "-3.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C004",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Dorset",
+      "en": "Dorset",
+      "slug": "dorset-gb04c004"
+    },
+    "code": {
+      "id": "GB04C004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.797",
+      "lon": "-2.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C044",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "East Devon",
+      "en": "East Devon",
+      "slug": "east-devon-gb04c044"
+    },
+    "code": {
+      "id": "GB04C044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.78",
+      "lon": "-3.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C048",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Exeter",
+      "en": "Exeter",
+      "slug": "exeter-gb04c048"
+    },
+    "code": {
+      "id": "GB04C048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.724",
+      "lon": "-3.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C013",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Flintshire",
+      "en": "Flintshire",
+      "slug": "flintshire-gb04c013"
+    },
+    "code": {
+      "id": "GB04C013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.246",
+      "lon": "-3.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C049",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Forest of Dean",
+      "en": "Forest of Dean",
+      "slug": "forest-of-dean-gb04c049"
+    },
+    "code": {
+      "id": "GB04C049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.762",
+      "lon": "-2.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C051",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Fylde",
+      "en": "Fylde",
+      "slug": "fylde-gb04c051"
+    },
+    "code": {
+      "id": "GB04C051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.785",
+      "lon": "-2.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C026",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Gwynedd",
+      "en": "Gwynedd",
+      "slug": "gwynedd-gb04c026"
+    },
+    "code": {
+      "id": "GB04C026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.846",
+      "lon": "-3.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C029",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Halton",
+      "en": "Halton",
+      "slug": "halton-gb04c029"
+    },
+    "code": {
+      "id": "GB04C029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.351",
+      "lon": "-2.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C034",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Herefordshire",
+      "en": "Herefordshire",
+      "slug": "herefordshire-gb04c034"
+    },
+    "code": {
+      "id": "GB04C034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.084",
+      "lon": "-2.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C010",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Isle of Anglesey",
+      "en": "Isle of Anglesey",
+      "slug": "isle-of-anglesey-gb04c010"
+    },
+    "code": {
+      "id": "GB04C010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.283",
+      "lon": "-4.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C021",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Isles of Scilly",
+      "en": "Isles of Scilly",
+      "slug": "isles-of-scilly-gb04c021"
+    },
+    "code": {
+      "id": "GB04C021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.924",
+      "lon": "-6.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C025",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Knowsley",
+      "en": "Knowsley",
+      "slug": "knowsley-gb04c025"
+    },
+    "code": {
+      "id": "GB04C025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.432",
+      "lon": "-2.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C027",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Liverpool",
+      "en": "Liverpool",
+      "slug": "liverpool-gb04c027"
+    },
+    "code": {
+      "id": "GB04C027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.403",
+      "lon": "-2.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C014",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Merthyr Tydfil",
+      "en": "Merthyr Tydfil",
+      "slug": "merthyr-tydfil-gb04c014"
+    },
+    "code": {
+      "id": "GB04C014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.753",
+      "lon": "-3.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C047",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Mid Devon",
+      "en": "Mid Devon",
+      "slug": "mid-devon-gb04c047"
+    },
+    "code": {
+      "id": "GB04C047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.914",
+      "lon": "-3.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C040",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Monmouthshire",
+      "en": "Monmouthshire",
+      "slug": "monmouthshire-gb04c040"
+    },
+    "code": {
+      "id": "GB04C040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.773",
+      "lon": "-2.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C016",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Neath Port Talbot",
+      "en": "Neath Port Talbot",
+      "slug": "neath-port-talbot-gb04c016"
+    },
+    "code": {
+      "id": "GB04C016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.661",
+      "lon": "-3.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C001",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Newport",
+      "en": "Newport",
+      "slug": "newport-gb04c001"
+    },
+    "code": {
+      "id": "GB04C001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.577",
+      "lon": "-2.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C043",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "North Devon",
+      "en": "North Devon",
+      "slug": "north-devon-gb04c043"
+    },
+    "code": {
+      "id": "GB04C043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.101",
+      "lon": "-3.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C041",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "North Somerset",
+      "en": "North Somerset",
+      "slug": "north-somerset-gb04c041"
+    },
+    "code": {
+      "id": "GB04C041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.408",
+      "lon": "-2.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C018",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Pembrokeshire",
+      "en": "Pembrokeshire",
+      "slug": "pembrokeshire-gb04c018"
+    },
+    "code": {
+      "id": "GB04C018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.888",
+      "lon": "-4.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C017",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Plymouth",
+      "en": "Plymouth",
+      "slug": "plymouth-gb04c017"
+    },
+    "code": {
+      "id": "GB04C017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.394",
+      "lon": "-4.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C028",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Powys",
+      "en": "Powys",
+      "slug": "powys-gb04c028"
+    },
+    "code": {
+      "id": "GB04C028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.21",
+      "lon": "-3.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C031",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Rhondda Cynon Taf",
+      "en": "Rhondda Cynon Taf",
+      "slug": "rhondda-cynon-taf-gb04c031"
+    },
+    "code": {
+      "id": "GB04C031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.66",
+      "lon": "-3.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C006",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Sefton",
+      "en": "Sefton",
+      "slug": "sefton-gb04c006"
+    },
+    "code": {
+      "id": "GB04C006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.484",
+      "lon": "-3.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C015",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Shropshire",
+      "en": "Shropshire",
+      "slug": "shropshire-gb04c015"
+    },
+    "code": {
+      "id": "GB04C015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.578",
+      "lon": "-2.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C035",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Somerset",
+      "en": "Somerset",
+      "slug": "somerset-gb04c035"
+    },
+    "code": {
+      "id": "GB04C035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.075",
+      "lon": "-2.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C019",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "South Gloucestershire",
+      "en": "South Gloucestershire",
+      "slug": "south-gloucestershire-gb04c019"
+    },
+    "code": {
+      "id": "GB04C019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.564",
+      "lon": "-2.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C053",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "South Hams",
+      "en": "South Hams",
+      "slug": "south-hams-gb04c053"
+    },
+    "code": {
+      "id": "GB04C053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.368",
+      "lon": "-3.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C012",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "St.  Helens",
+      "en": "St.  Helens",
+      "slug": "st-helens-gb04c012"
+    },
+    "code": {
+      "id": "GB04C012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.454",
+      "lon": "-2.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C038",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Swansea",
+      "en": "Swansea",
+      "slug": "swansea-gb04c038"
+    },
+    "code": {
+      "id": "GB04C038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.686",
+      "lon": "-3.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C045",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Teignbridge",
+      "en": "Teignbridge",
+      "slug": "teignbridge-gb04c045"
+    },
+    "code": {
+      "id": "GB04C045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.611",
+      "lon": "-3.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C036",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Torbay",
+      "en": "Torbay",
+      "slug": "torbay-gb04c036"
+    },
+    "code": {
+      "id": "GB04C036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.442",
+      "lon": "-3.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C022",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Torfaen",
+      "en": "Torfaen",
+      "slug": "torfaen-gb04c022"
+    },
+    "code": {
+      "id": "GB04C022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.697",
+      "lon": "-3.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C054",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Torridge",
+      "en": "Torridge",
+      "slug": "torridge-gb04c054"
+    },
+    "code": {
+      "id": "GB04C054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.873",
+      "lon": "-4.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C020",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Vale of Glamorgan",
+      "en": "Vale of Glamorgan",
+      "slug": "vale-of-glamorgan-gb04c020"
+    },
+    "code": {
+      "id": "GB04C020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.441",
+      "lon": "-3.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C046",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "West Devon",
+      "en": "West Devon",
+      "slug": "west-devon-gb04c046"
+    },
+    "code": {
+      "id": "GB04C046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.663",
+      "lon": "-4.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C050",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "West Lancashire",
+      "en": "West Lancashire",
+      "slug": "west-lancashire-gb04c050"
+    },
+    "code": {
+      "id": "GB04C050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.6",
+      "lon": "-2.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C032",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Wirral",
+      "en": "Wirral",
+      "slug": "wirral-gb04c032"
+    },
+    "code": {
+      "id": "GB04C032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.373",
+      "lon": "-3.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C003",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Wrexham",
+      "en": "Wrexham",
+      "slug": "wrexham-gb04c003"
+    },
+    "code": {
+      "id": "GB04C003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.046",
+      "lon": "-2.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GB04C052",
+    "level": 2,
+    "level_name": {
+      "local": "County/Council",
+      "en": "County/Council"
+    },
+    "name": {
+      "local": "Wyre",
+      "en": "Wyre",
+      "slug": "wyre-gb04c052"
+    },
+    "code": {
+      "id": "GB04C052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GB04",
+        "level": 1,
+        "name": {
+          "local": "Wales",
+          "en": "Wales",
+          "slug": "wales-gb04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.879",
+      "lon": "-2.813"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

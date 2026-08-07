@@ -1,0 +1,58 @@
+# United Kingdom Administrative Divisions
+
+> Open dataset of United Kingdom's administrative hierarchy:
+> 4 nations, 361 county/councils.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total nations: 4
+- Total county/councils: 361
+- Coordinates: included (all levels)
+- Last updated: 2026-08-07
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All nations (JSON)](https://raw.githubusercontent.com/open-admin-data/united-kingdom-administrative-divisions/main/data/all-nation.json)
+- [All county/councils (JSON)](https://raw.githubusercontent.com/open-admin-data/united-kingdom-administrative-divisions/main/data/all-county.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/united-kingdom-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/united-kingdom-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/united-kingdom-administrative-divisions/main/data/schema.json)
+
+## Browse by Nation
+
+- [England](https://github.com/open-admin-data/united-kingdom-administrative-divisions/tree/main/divisions/england-gb01/) — 262 county/councils
+- [Scotland](https://github.com/open-admin-data/united-kingdom-administrative-divisions/tree/main/divisions/scotland-gb02/) — 34 county/councils
+- [Northern Ireland](https://github.com/open-admin-data/united-kingdom-administrative-divisions/tree/main/divisions/northern-ireland-gb03/) — 11 county/councils
+- [Wales](https://github.com/open-admin-data/united-kingdom-administrative-divisions/tree/main/divisions/wales-gb04/) — 54 county/councils
+
+## Per-Nation Full Data
+
+- [England](https://raw.githubusercontent.com/open-admin-data/united-kingdom-administrative-divisions/main/docs/llms-full/england-gb01.txt)
+- [Scotland](https://raw.githubusercontent.com/open-admin-data/united-kingdom-administrative-divisions/main/docs/llms-full/scotland-gb02.txt)
+- [Northern Ireland](https://raw.githubusercontent.com/open-admin-data/united-kingdom-administrative-divisions/main/docs/llms-full/northern-ireland-gb03.txt)
+- [Wales](https://raw.githubusercontent.com/open-admin-data/united-kingdom-administrative-divisions/main/docs/llms-full/wales-gb04.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (nation), 2 (county/council)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+United Kingdom Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/united-kingdom-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

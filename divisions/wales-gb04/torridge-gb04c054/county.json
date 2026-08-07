@@ -1,0 +1,45 @@
+{
+  "id": "GB04C054",
+  "level": 2,
+  "level_name": {
+    "local": "County/Council",
+    "en": "County/Council"
+  },
+  "name": {
+    "local": "Torridge",
+    "en": "Torridge",
+    "slug": "torridge-gb04c054"
+  },
+  "code": {
+    "id": "GB04C054",
+    "iso": null
+  },
+  "parent": {
+    "id": "GB04",
+    "level": 1,
+    "name": {
+      "local": "Wales",
+      "en": "Wales",
+      "slug": "wales-gb04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GB04",
+      "level": 1,
+      "name": {
+        "local": "Wales",
+        "en": "Wales",
+        "slug": "wales-gb04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.873",
+    "lon": "-4.282"
+  },
+  "metadata": {},
+  "source": {}
+}

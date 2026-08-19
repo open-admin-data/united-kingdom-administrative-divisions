@@ -9,7 +9,7 @@
 - Total nations: 4
 - Total county/councils: 361
 - Coordinates: included (all levels)
-- Last updated: 2026-08-07
+- Last updated: 2026-08-19
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

@@ -3,7 +3,7 @@
 > 54 county/councils
 > Code: GB04
 > Coordinates: 52.14, -3.651
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## County/Councils
 

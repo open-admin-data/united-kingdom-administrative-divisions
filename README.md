@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/gb](https://openadmindata.org/gb/) |
 | API | [openadmindata.org/api/gb](https://openadmindata.org/api/gb/) |
+| Flag | [PNG](https://onlygames.me/flags-png/gb/) · [SVG](https://onlygames.me/flags-svg/gb/) · [PDF](https://onlygames.me/flags-pdf/gb/) |
 | National Anthem | [🎵 Listen & Download United Kingdom National Anthem MP3](https://onlygames.me/national-anthems/gb/) |
 
 ## Browse by Nation

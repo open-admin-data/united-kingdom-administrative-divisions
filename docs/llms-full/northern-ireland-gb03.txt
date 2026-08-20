@@ -3,7 +3,7 @@
 > 11 county/councils
 > Code: GB03
 > Coordinates: 54.76, -6.892
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## County/Councils
 
